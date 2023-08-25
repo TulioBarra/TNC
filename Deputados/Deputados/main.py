@@ -48,116 +48,96 @@ def salvar_dados(g, arq_grafo, arq_votacoes):
     print("DADOS SALVOS")             
 
 def main():
-    
-#Normalizacao [0,1]_2022-----------------------------------------------------------------------------------------------------
-    cv = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2022-deputados.csv', encoding='ISO-8859-1')
-    
-    
-    df = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2022.csv', encoding='ISO-8859-1')
-    
-    
-    dp = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2022-grafo.csv', encoding='ISO-8859-1')
-    qtd_p = len(dp)
-    qtd_c = len(cv)
-    for i in range(qtd_c):
-        for j in range(qtd_p):
-            if(dp['Candidato1'][j]==cv['Candidato'][i]):
-                df.loc[j, 'Votos'] = (dp ['Votos'][j]/cv['Votos'][i])
-                print(i, j)
-    df.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2022.csv', index=False)
-    
-#----------------------------------------------------------------------------------------------------------------------
-
-#Normalizacao [0,1]_2023-----------------------------------------------------------------------------------------------------
-    cv = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2023-deputados.csv', encoding='ISO-8859-1')
-    
-    
-    df = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2023.csv', encoding='ISO-8859-1')
-    
-    
-    dp = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2023-grafo.csv', encoding='ISO-8859-1')
-    qtd_p = len(dp)
-    qtd_c = len(cv)
-    for i in range(qtd_c):
-        for j in range(qtd_p):
-            if(dp['Candidato1'][j]==cv['Candidato'][i]):
-                df.loc[j, 'Votos'] = (dp ['Votos'][j]/cv['Votos'][i])
-                print(i, j)
-    df.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2023.csv', index=False)
-    
-#----------------------------------------------------------------------------------------------------------------------
-
-
-#Inversao de peso_2022-----------------------------------------------------------------------------------------------
-
-    dr = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2022.csv', encoding='ISO-8859-1')
-    
-    dm = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\minimizado-2022.csv', encoding='ISO-8859-1')
-    
-    qtd_p = len(dr)
-    
-    for x in range(qtd_p):
-        dm.loc[x, 'Votos'] = (1 - dr['Votos'][x])
-    
-    dm.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\minimizado-2022.csv', index=False)
-#--------------------------------------------------------------------------------------------------------------  
-
-#Inversao de peso_2023-----------------------------------------------------------------------------------------------
-
-    dr = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2023.csv', encoding='ISO-8859-1')
-    
-    dm = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\minimizado-2023.csv', encoding='ISO-8859-1')
-    
-    qtd_p = len(dr)
-    
-    for x in range(qtd_p):
-        dm.loc[x, 'Votos'] = (1 - dr['Votos'][x])
-    
-    dm.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\minimizado-2023.csv', index=False)
-#--------------------------------------------------------------------------------------------------------------  
-
-
-
-    
-#TRESHOLD COLOCAR LIMITE MINIMO DE PESO_2023---------------------------------------------------------------------------
+    ano = int(input("Digite o ano a se considerar (2022 ou 2023):"))
     treshold = float(input("Informe o mínimo de peso:"))
-    
-    fm = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\filtro_maiores-2023.csv', encoding='ISO-8859-1')
-    dr = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2023.csv', encoding='ISO-8859-1')
-    
-    qtd_p = len(dr)
-    x=1
-    for x in range(qtd_p):
-        if(dr['Votos'][x] > treshold):
-            fm.loc[x, 'Candidato1'] = dr['Candidato1'][x]
-            fm.loc[x, 'Candidato2'] = dr['Candidato2'][x]
-            fm.loc[x, 'Votos'] = dr['Votos'][x]
-            print(x)
+#Normalizacao 2022---------------------------------------------------------------------------------------------------------------------------------
+    if(ano==2022):
+        vd_22 = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2022-deputados.csv', encoding='ISO-8859-1')
+        re_22 = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2022.csv', encoding='ISO-8859-1')
         
-    
-    fm.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\filtro_maiores-2023.csv', index=False)
-#-------------------------------------------------------------------------------------------------------------------------------
-
-#TRESHOLD COLOCAR LIMITE MINIMO DE PESO_2022---------------------------------------------------------------------------
-    treshold = float(input("Informe o mínimo de peso:"))
-    
-    fm = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\filtro_maiores-2022.csv', encoding='ISO-8859-1')
-    dr = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2022.csv', encoding='ISO-8859-1')
-    
-    qtd_p = len(dr)
-    x=1
-    for x in range(qtd_p):
-        if(dr['Votos'][x] > treshold):
-            fm.loc[x, 'Candidato1'] = dr['Candidato1'][x]
-            fm.loc[x, 'Candidato2'] = dr['Candidato2'][x]
-            fm.loc[x, 'Votos'] = dr['Votos'][x]
-            print(x)
+        vg_22 = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2022-grafo.csv', encoding='ISO-8859-1')
+        qtd_p = len(vg_22)
+        qtd_c = len(vd_22)
+        for i in range(qtd_c):
+            for j in range(qtd_p):
+                if(vg_22['Candidato1'][j]==vd_22['Candidato'][i]):
+                    re_22.loc[j, 'Votos'] = (vg_22 ['Votos'][j]/vd_22['Votos'][i])
+                    print(i, j)
+        re_22.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2022.csv', index=False) 
+#------------------------------------------------------------------------------------------------------------------------------------------------
+#Inversao de peso 2022-------------------------------------------------------------------------------------------------------------------------------------
+        re_2022 = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2022.csv', encoding='ISO-8859-1')
+        mm_22 = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\minimizado-2022.csv', encoding='ISO-8859-1')
         
-    
-    fm.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\filtro_maiores-2022.csv', index=False)
-#-------------------------------------------------------------------------------------------------------------------------------
-    
-    
+        qtd_p = len(re_22)
+        x=1
+        for x in range(qtd_p):
+            mm_22.loc[x, 'Candidato1'] = re_2022['Candidato1'][x]
+            mm_22.loc[x, 'Candidato2'] = re_2022['Candidato2'][x]
+            
+            mm_22.loc[x, 'Votos'] = (1 - re_2022['Votos'][x])
+            print(x)
+        mm_22.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\minimizado-2022.csv', index=False)
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+#TRESHOLD Limite de peso minimo 2022--------------------------------------------------------------------------------------------------------------------
+        
+        fm_22 = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\filtro_maiores-2022.csv', encoding='ISO-8859-1')
+        re_22 = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2022.csv', encoding='ISO-8859-1')
+        
+        qtd_p = len(re_22)
+        x=1
+        for x in range(qtd_p):
+            if(re_22['Votos'][x] > treshold):
+                fm_22.loc[x, 'Candidato1'] = re_22['Candidato1'][x]
+                fm_22.loc[x, 'Candidato2'] = re_22['Candidato2'][x]
+                fm_22.loc[x, 'Votos'] = re_22['Votos'][x]
+                print(x)
+        fm_22.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\filtro_maiores-2022.csv', index=False)
+#------------------------------------------------------------------------------------------------------------------------------------------------
+#Normalizacao 2023---------------------------------------------------------------------------------------------------------------------------------
+    if(ano==2023):
+        vd_23 = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2023-deputados.csv', encoding='ISO-8859-1')
+        re_23 = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2023.csv', encoding='ISO-8859-1')
+        
+        vg_23 = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2023-grafo.csv', encoding='ISO-8859-1')
+        qtd_p = len(vg_23)
+        qtd_c = len(vd_23)
+        for i in range(qtd_c):
+            for j in range(qtd_p):
+                if(vg_23['Candidato1'][j]==vd_23['Candidato'][i]):
+                    re_23.loc[j, 'Votos'] = (vg_23 ['Votos'][j]/vd_23['Votos'][i])
+                    print(i, j)
+        re_23.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2023.csv', index=False) 
+#------------------------------------------------------------------------------------------------------------------------------------------------
+#Inversao de peso 2023-------------------------------------------------------------------------------------------------------------------------------------
+        re_23 = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2023.csv', encoding='ISO-8859-1')
+        mm_23 = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\minimizado-2023.csv', encoding='ISO-8859-1')
+        
+        qtd_p = len(re_23)
+        x=1
+        for x in range(qtd_p):
+            mm_23.loc[x, 'Candidato1'] = re_23['Candidato1'][x]
+            mm_23.loc[x, 'Candidato2'] = re_23['Candidato2'][x]
+            
+            mm_23.loc[x, 'Votos'] = (1 - re_23['Votos'][x])
+            print(x)
+        mm_23.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\minimizado-2023.csv', index=False)
+#----------------------------------------------------------------------------------------------------------------------------------------------------------
+#TRESHOLD Limite de peso minimo 2023--------------------------------------------------------------------------------------------------------------------
+        
+        fm_23 = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\filtro_maiores-2023.csv', encoding='ISO-8859-1')
+        re_23 = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2023.csv', encoding='ISO-8859-1')
+        
+        qtd_p = len(re_23)
+        x=1
+        for x in range(qtd_p):
+            if(re_23['Votos'][x] > treshold):
+                fm_23.loc[x, 'Candidato1'] = re_23['Candidato1'][x]
+                fm_23.loc[x, 'Candidato2'] = re_23['Candidato2'][x]
+                fm_23.loc[x, 'Votos'] = re_23['Votos'][x]
+                print(x)
+        fm_23.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\filtro_maiores-2023.csv', index=False)
+#--------------------------------------------------------------------------------------------------------------------------------------------------
 
 if __name__ == "__main__":
     main()
