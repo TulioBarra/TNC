@@ -1,0 +1,138 @@
+Deputado: Carlos Veras
+Quantidade de aprovações: 4
+
+Deputado: Cobalchini
+Quantidade de aprovações: 2
+
+Deputado: Delegada Katarina
+Quantidade de aprovações: 5
+
+Deputado: Flávio Nogueira
+Quantidade de aprovações: 3
+
+Deputado: Helder Salomão
+Quantidade de aprovações: 4
+
+Deputado: José Guimarães
+Quantidade de aprovações: 4
+
+Deputado: Laura Carneiro
+Quantidade de aprovações: 3
+
+Deputado: Marcos Tavares
+Quantidade de aprovações: 3
+
+Deputado: Pedro Campos
+Quantidade de aprovações: 1
+
+Deputado: Renilce Nicodemos
+Quantidade de aprovações: 1
+
+Deputado: Rui Falcão
+Quantidade de aprovações: 3
+
+Deputado: Sâmia Bomfim
+Quantidade de aprovações: 3
+
+Deputado: Tarcísio Motta
+Quantidade de aprovações: 4
+
+Deputado: Waldemar Oliveira
+Quantidade de aprovações: 3
+
+Deputado: Zé Haroldo Cathedral
+Quantidade de aprovações: 1
+
+Deputado: Afonso Motta
+Quantidade de aprovações: 1
+
+Deputado: Alencar Santana
+Quantidade de aprovações: 3
+
+Deputado: André Janones
+Quantidade de aprovações: 1
+
+Deputado: Bacelar
+Quantidade de aprovações: 1
+
+Deputado: Diego Coronel
+Quantidade de aprovações: 4
+
+Deputado: Eduardo Bismarck
+Quantidade de aprovações: 3
+
+Deputado: Gervásio Maia
+Quantidade de aprovações: 3
+
+Deputado: Juarez Costa
+Quantidade de aprovações: 1
+
+Deputado: Maria Arraes
+Quantidade de aprovações: 2
+
+Deputado: Murilo Galdino
+Quantidade de aprovações: 1
+
+Deputado: Rubens Pereira Júnior
+Quantidade de aprovações: 3
+
+Deputado: Silvio Costa Filho
+Quantidade de aprovações: 1
+
+Deputado: Tabata Amaral
+Quantidade de aprovações: 2
+
+Deputado: Yury do Paredão
+Quantidade de aprovações: 3
+
+Deputado: Lindbergh Farias
+Quantidade de aprovações: 2
+
+Deputado: Luiz Couto
+Quantidade de aprovações: 2
+
+Deputado: Duarte
+Quantidade de aprovações: 1
+
+Deputado: Marcelo Crivella
+Quantidade de aprovações: 1
+
+Deputado: Rubens Otoni
+Quantidade de aprovações: 1
+
+Deputado: Alfredo Gaspar
+Quantidade de aprovações: 1
+
+Deputado: Arthur Oliveira Maia
+Quantidade de aprovações: 1
+
+Deputado: Átila Lira
+Quantidade de aprovações: 1
+
+Deputado: Cabo Gilberto Silva
+Quantidade de aprovações: 1
+
+Deputado: Capitão Augusto
+Quantidade de aprovações: 1
+
+Deputado: Carlos Jordy
+Quantidade de aprovações: 1
+
+Deputado: Coronel Fernanda
+Quantidade de aprovações: 1
+
+Deputado: Coronel Meira
+Quantidade de aprovações: 1
+
+Deputado: Delegado Marcelo Freitas
+Quantidade de aprovações: 1
+
+Deputado: Delegado Ramagem
+Quantidade de aprovações: 1
+
+Deputado: Deltan Dallagnol
+Quantidade de aprovações: 1
+
+Deputado: Diego Garcia
+Quantidade de aprovações: 1
+
