@@ -7,8 +7,8 @@ import pandas as pd
 # Mudar os caminhos conforme necessário
 arq_grafo_2022 = r"C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2022-grafo.csv"
 arq_votacoes_2022 = r"C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2022-deputados.csv"
-arq_grafo_2023 = r"C:\Users\tulio\Documents\AEDSIII\NetworkLib\votacaoVotos-2023-grafo.txt"
-arq_votacoes_2023 = r"C:\Users\tulio\Documents\AEDSIII\NetworkLib\votacaoVotos-2023-deputados.txt"
+arq_grafo_2023 = r"C:\Users\tulio\Documents\AEDSIII\NetworkLib\votacaoVotos-2023-grafo.csv"
+arq_votacoes_2023 = r"C:\Users\tulio\Documents\AEDSIII\NetworkLib\votacaoVotos-2023-deputados.csv"
 
 def fazer_requisicao(url):
     response = requests.get(url)
@@ -49,13 +49,33 @@ def salvar_dados(g, arq_grafo, arq_votacoes):
 
 def main():
     
-    cv = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2023-deputados.csv')
+#Normalizacao [0,1]_2022-----------------------------------------------------------------------------------------------------
+    cv = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2022-deputados.csv', encoding='ISO-8859-1')
     
     
-    df = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2023.csv')
+    df = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2022.csv', encoding='ISO-8859-1')
     
     
-    dp = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2023-grafo.csv')
+    dp = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2022-grafo.csv', encoding='ISO-8859-1')
+    qtd_p = len(dp)
+    qtd_c = len(cv)
+    for i in range(qtd_c):
+        for j in range(qtd_p):
+            if(dp['Candidato1'][j]==cv['Candidato'][i]):
+                df.loc[j, 'Votos'] = (dp ['Votos'][j]/cv['Votos'][i])
+                print(i, j)
+    df.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2022.csv', index=False)
+    
+#----------------------------------------------------------------------------------------------------------------------
+
+#Normalizacao [0,1]_2023-----------------------------------------------------------------------------------------------------
+    cv = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2023-deputados.csv', encoding='ISO-8859-1')
+    
+    
+    df = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2023.csv', encoding='ISO-8859-1')
+    
+    
+    dp = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2023-grafo.csv', encoding='ISO-8859-1')
     qtd_p = len(dp)
     qtd_c = len(cv)
     for i in range(qtd_c):
@@ -65,11 +85,79 @@ def main():
                 print(i, j)
     df.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2023.csv', index=False)
     
+#----------------------------------------------------------------------------------------------------------------------
+
+
+#Inversao de peso_2022-----------------------------------------------------------------------------------------------
+
+    dr = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2022.csv', encoding='ISO-8859-1')
+    
+    dm = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\minimizado-2022.csv', encoding='ISO-8859-1')
+    
+    qtd_p = len(dr)
+    
+    for x in range(qtd_p):
+        dm.loc[x, 'Votos'] = (1 - dr['Votos'][x])
+    
+    dm.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\minimizado-2022.csv', index=False)
+#--------------------------------------------------------------------------------------------------------------  
+
+#Inversao de peso_2023-----------------------------------------------------------------------------------------------
+
+    dr = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2023.csv', encoding='ISO-8859-1')
+    
+    dm = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\minimizado-2023.csv', encoding='ISO-8859-1')
+    
+    qtd_p = len(dr)
+    
+    for x in range(qtd_p):
+        dm.loc[x, 'Votos'] = (1 - dr['Votos'][x])
+    
+    dm.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\minimizado-2023.csv', index=False)
+#--------------------------------------------------------------------------------------------------------------  
+
+
 
     
+#TRESHOLD COLOCAR LIMITE MINIMO DE PESO_2023---------------------------------------------------------------------------
+    treshold = float(input("Informe o mínimo de peso:"))
     
+    fm = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\filtro_maiores-2023.csv', encoding='ISO-8859-1')
+    dr = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2023.csv', encoding='ISO-8859-1')
+    
+    qtd_p = len(dr)
+    x=1
+    for x in range(qtd_p):
+        if(dr['Votos'][x] > treshold):
+            fm.loc[x, 'Candidato1'] = dr['Candidato1'][x]
+            fm.loc[x, 'Candidato2'] = dr['Candidato2'][x]
+            fm.loc[x, 'Votos'] = dr['Votos'][x]
+            print(x)
         
-       
     
+    fm.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\filtro_maiores-2023.csv', index=False)
+#-------------------------------------------------------------------------------------------------------------------------------
+
+#TRESHOLD COLOCAR LIMITE MINIMO DE PESO_2022---------------------------------------------------------------------------
+    treshold = float(input("Informe o mínimo de peso:"))
+    
+    fm = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\filtro_maiores-2022.csv', encoding='ISO-8859-1')
+    dr = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2022.csv', encoding='ISO-8859-1')
+    
+    qtd_p = len(dr)
+    x=1
+    for x in range(qtd_p):
+        if(dr['Votos'][x] > treshold):
+            fm.loc[x, 'Candidato1'] = dr['Candidato1'][x]
+            fm.loc[x, 'Candidato2'] = dr['Candidato2'][x]
+            fm.loc[x, 'Votos'] = dr['Votos'][x]
+            print(x)
+        
+    
+    fm.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\filtro_maiores-2022.csv', index=False)
+#-------------------------------------------------------------------------------------------------------------------------------
+    
+    
+
 if __name__ == "__main__":
     main()
