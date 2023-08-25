@@ -48,17 +48,28 @@ def salvar_dados(g, arq_grafo, arq_votacoes):
     print("DADOS SALVOS")             
 
 def main():
-    df = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2022-deputados.csv')
+    
+    cv = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2023-deputados.csv')
     
     
-    cv = df
-    print(cv)
+    df = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2023.csv')
     
-    df = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2022-grafo.csv')
-    if(df['Candidato1']):
-        print(df)
+    
+    dp = pd.read_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\votacaoVotos-2023-grafo.csv')
+    qtd_p = len(dp)
+    qtd_c = len(cv)
+    for i in range(qtd_c):
+        for j in range(qtd_p):
+            if(dp['Candidato1'][j]==cv['Candidato'][i]):
+                df.loc[j, 'Votos'] = (dp ['Votos'][j]/cv['Votos'][i])
+                print(i, j)
+    df.to_csv('C:\\Users\\tulio\\Documents\\AEDSIII\\NetworkLib\\results-2023.csv', index=False)
+    
+
+    
+    
         
-        
+       
     
 if __name__ == "__main__":
     main()
