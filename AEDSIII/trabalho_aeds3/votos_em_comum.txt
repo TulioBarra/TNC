@@ -1,0 +1,1240 @@
+Deputado 1 : Cobalchini
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 1
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 2
+
+Deputado 1 : Flávio Nogueira
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 3
+
+Deputado 1 : Helder Salomão
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 4
+
+Deputado 1 : José Guimarães
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 5
+
+Deputado 1 : Laura Carneiro
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 6
+
+Deputado 1 : Marcos Tavares
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 7
+
+Deputado 1 : Pedro Campos
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 8
+
+Deputado 1 : Renilce Nicodemos
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 9
+
+Deputado 1 : Rui Falcão
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 10
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 11
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 12
+
+Deputado 1 : Waldemar Oliveira
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 13
+
+Deputado 1 : Zé Haroldo Cathedral
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 14
+
+Deputado 1 : Carlos Veras
+Deputado 2 : Cobalchini
+Quantidade de votos em comum: 1
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : Cobalchini
+Quantidade de votos em comum: 2
+
+Deputado 1 : Flávio Nogueira
+Deputado 2 : Cobalchini
+Quantidade de votos em comum: 3
+
+Deputado 1 : Helder Salomão
+Deputado 2 : Cobalchini
+Quantidade de votos em comum: 4
+
+Deputado 1 : José Guimarães
+Deputado 2 : Cobalchini
+Quantidade de votos em comum: 5
+
+Deputado 1 : Laura Carneiro
+Deputado 2 : Cobalchini
+Quantidade de votos em comum: 6
+
+Deputado 1 : Marcos Tavares
+Deputado 2 : Cobalchini
+Quantidade de votos em comum: 7
+
+Deputado 1 : Pedro Campos
+Deputado 2 : Cobalchini
+Quantidade de votos em comum: 8
+
+Deputado 1 : Renilce Nicodemos
+Deputado 2 : Cobalchini
+Quantidade de votos em comum: 9
+
+Deputado 1 : Rui Falcão
+Deputado 2 : Cobalchini
+Quantidade de votos em comum: 10
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : Cobalchini
+Quantidade de votos em comum: 11
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : Cobalchini
+Quantidade de votos em comum: 12
+
+Deputado 1 : Waldemar Oliveira
+Deputado 2 : Cobalchini
+Quantidade de votos em comum: 13
+
+Deputado 1 : Zé Haroldo Cathedral
+Deputado 2 : Cobalchini
+Quantidade de votos em comum: 14
+
+Deputado 1 : Carlos Veras
+Deputado 2 : Delegada Katarina
+Quantidade de votos em comum: 1
+
+Deputado 1 : Cobalchini
+Deputado 2 : Delegada Katarina
+Quantidade de votos em comum: 2
+
+Deputado 1 : Flávio Nogueira
+Deputado 2 : Delegada Katarina
+Quantidade de votos em comum: 3
+
+Deputado 1 : Helder Salomão
+Deputado 2 : Delegada Katarina
+Quantidade de votos em comum: 4
+
+Deputado 1 : José Guimarães
+Deputado 2 : Delegada Katarina
+Quantidade de votos em comum: 5
+
+Deputado 1 : Laura Carneiro
+Deputado 2 : Delegada Katarina
+Quantidade de votos em comum: 6
+
+Deputado 1 : Marcos Tavares
+Deputado 2 : Delegada Katarina
+Quantidade de votos em comum: 7
+
+Deputado 1 : Pedro Campos
+Deputado 2 : Delegada Katarina
+Quantidade de votos em comum: 8
+
+Deputado 1 : Renilce Nicodemos
+Deputado 2 : Delegada Katarina
+Quantidade de votos em comum: 9
+
+Deputado 1 : Rui Falcão
+Deputado 2 : Delegada Katarina
+Quantidade de votos em comum: 10
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : Delegada Katarina
+Quantidade de votos em comum: 11
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : Delegada Katarina
+Quantidade de votos em comum: 12
+
+Deputado 1 : Waldemar Oliveira
+Deputado 2 : Delegada Katarina
+Quantidade de votos em comum: 13
+
+Deputado 1 : Zé Haroldo Cathedral
+Deputado 2 : Delegada Katarina
+Quantidade de votos em comum: 14
+
+Deputado 1 : Carlos Veras
+Deputado 2 : Flávio Nogueira
+Quantidade de votos em comum: 1
+
+Deputado 1 : Cobalchini
+Deputado 2 : Flávio Nogueira
+Quantidade de votos em comum: 2
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : Flávio Nogueira
+Quantidade de votos em comum: 3
+
+Deputado 1 : Helder Salomão
+Deputado 2 : Flávio Nogueira
+Quantidade de votos em comum: 4
+
+Deputado 1 : José Guimarães
+Deputado 2 : Flávio Nogueira
+Quantidade de votos em comum: 5
+
+Deputado 1 : Laura Carneiro
+Deputado 2 : Flávio Nogueira
+Quantidade de votos em comum: 6
+
+Deputado 1 : Marcos Tavares
+Deputado 2 : Flávio Nogueira
+Quantidade de votos em comum: 7
+
+Deputado 1 : Pedro Campos
+Deputado 2 : Flávio Nogueira
+Quantidade de votos em comum: 8
+
+Deputado 1 : Renilce Nicodemos
+Deputado 2 : Flávio Nogueira
+Quantidade de votos em comum: 9
+
+Deputado 1 : Rui Falcão
+Deputado 2 : Flávio Nogueira
+Quantidade de votos em comum: 10
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : Flávio Nogueira
+Quantidade de votos em comum: 11
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : Flávio Nogueira
+Quantidade de votos em comum: 12
+
+Deputado 1 : Waldemar Oliveira
+Deputado 2 : Flávio Nogueira
+Quantidade de votos em comum: 13
+
+Deputado 1 : Zé Haroldo Cathedral
+Deputado 2 : Flávio Nogueira
+Quantidade de votos em comum: 14
+
+Deputado 1 : Carlos Veras
+Deputado 2 : Helder Salomão
+Quantidade de votos em comum: 1
+
+Deputado 1 : Cobalchini
+Deputado 2 : Helder Salomão
+Quantidade de votos em comum: 2
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : Helder Salomão
+Quantidade de votos em comum: 3
+
+Deputado 1 : Flávio Nogueira
+Deputado 2 : Helder Salomão
+Quantidade de votos em comum: 4
+
+Deputado 1 : José Guimarães
+Deputado 2 : Helder Salomão
+Quantidade de votos em comum: 5
+
+Deputado 1 : Laura Carneiro
+Deputado 2 : Helder Salomão
+Quantidade de votos em comum: 6
+
+Deputado 1 : Marcos Tavares
+Deputado 2 : Helder Salomão
+Quantidade de votos em comum: 7
+
+Deputado 1 : Pedro Campos
+Deputado 2 : Helder Salomão
+Quantidade de votos em comum: 8
+
+Deputado 1 : Renilce Nicodemos
+Deputado 2 : Helder Salomão
+Quantidade de votos em comum: 9
+
+Deputado 1 : Rui Falcão
+Deputado 2 : Helder Salomão
+Quantidade de votos em comum: 10
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : Helder Salomão
+Quantidade de votos em comum: 11
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : Helder Salomão
+Quantidade de votos em comum: 12
+
+Deputado 1 : Waldemar Oliveira
+Deputado 2 : Helder Salomão
+Quantidade de votos em comum: 13
+
+Deputado 1 : Zé Haroldo Cathedral
+Deputado 2 : Helder Salomão
+Quantidade de votos em comum: 14
+
+Deputado 1 : Carlos Veras
+Deputado 2 : José Guimarães
+Quantidade de votos em comum: 1
+
+Deputado 1 : Cobalchini
+Deputado 2 : José Guimarães
+Quantidade de votos em comum: 2
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : José Guimarães
+Quantidade de votos em comum: 3
+
+Deputado 1 : Flávio Nogueira
+Deputado 2 : José Guimarães
+Quantidade de votos em comum: 4
+
+Deputado 1 : Helder Salomão
+Deputado 2 : José Guimarães
+Quantidade de votos em comum: 5
+
+Deputado 1 : Laura Carneiro
+Deputado 2 : José Guimarães
+Quantidade de votos em comum: 6
+
+Deputado 1 : Marcos Tavares
+Deputado 2 : José Guimarães
+Quantidade de votos em comum: 7
+
+Deputado 1 : Pedro Campos
+Deputado 2 : José Guimarães
+Quantidade de votos em comum: 8
+
+Deputado 1 : Renilce Nicodemos
+Deputado 2 : José Guimarães
+Quantidade de votos em comum: 9
+
+Deputado 1 : Rui Falcão
+Deputado 2 : José Guimarães
+Quantidade de votos em comum: 10
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : José Guimarães
+Quantidade de votos em comum: 11
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : José Guimarães
+Quantidade de votos em comum: 12
+
+Deputado 1 : Waldemar Oliveira
+Deputado 2 : José Guimarães
+Quantidade de votos em comum: 13
+
+Deputado 1 : Zé Haroldo Cathedral
+Deputado 2 : José Guimarães
+Quantidade de votos em comum: 14
+
+Deputado 1 : Carlos Veras
+Deputado 2 : Laura Carneiro
+Quantidade de votos em comum: 1
+
+Deputado 1 : Cobalchini
+Deputado 2 : Laura Carneiro
+Quantidade de votos em comum: 2
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : Laura Carneiro
+Quantidade de votos em comum: 3
+
+Deputado 1 : Flávio Nogueira
+Deputado 2 : Laura Carneiro
+Quantidade de votos em comum: 4
+
+Deputado 1 : Helder Salomão
+Deputado 2 : Laura Carneiro
+Quantidade de votos em comum: 5
+
+Deputado 1 : José Guimarães
+Deputado 2 : Laura Carneiro
+Quantidade de votos em comum: 6
+
+Deputado 1 : Marcos Tavares
+Deputado 2 : Laura Carneiro
+Quantidade de votos em comum: 7
+
+Deputado 1 : Pedro Campos
+Deputado 2 : Laura Carneiro
+Quantidade de votos em comum: 8
+
+Deputado 1 : Renilce Nicodemos
+Deputado 2 : Laura Carneiro
+Quantidade de votos em comum: 9
+
+Deputado 1 : Rui Falcão
+Deputado 2 : Laura Carneiro
+Quantidade de votos em comum: 10
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : Laura Carneiro
+Quantidade de votos em comum: 11
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : Laura Carneiro
+Quantidade de votos em comum: 12
+
+Deputado 1 : Waldemar Oliveira
+Deputado 2 : Laura Carneiro
+Quantidade de votos em comum: 13
+
+Deputado 1 : Zé Haroldo Cathedral
+Deputado 2 : Laura Carneiro
+Quantidade de votos em comum: 14
+
+Deputado 1 : Carlos Veras
+Deputado 2 : Marcos Tavares
+Quantidade de votos em comum: 1
+
+Deputado 1 : Cobalchini
+Deputado 2 : Marcos Tavares
+Quantidade de votos em comum: 2
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : Marcos Tavares
+Quantidade de votos em comum: 3
+
+Deputado 1 : Flávio Nogueira
+Deputado 2 : Marcos Tavares
+Quantidade de votos em comum: 4
+
+Deputado 1 : Helder Salomão
+Deputado 2 : Marcos Tavares
+Quantidade de votos em comum: 5
+
+Deputado 1 : José Guimarães
+Deputado 2 : Marcos Tavares
+Quantidade de votos em comum: 6
+
+Deputado 1 : Laura Carneiro
+Deputado 2 : Marcos Tavares
+Quantidade de votos em comum: 7
+
+Deputado 1 : Pedro Campos
+Deputado 2 : Marcos Tavares
+Quantidade de votos em comum: 8
+
+Deputado 1 : Renilce Nicodemos
+Deputado 2 : Marcos Tavares
+Quantidade de votos em comum: 9
+
+Deputado 1 : Rui Falcão
+Deputado 2 : Marcos Tavares
+Quantidade de votos em comum: 10
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : Marcos Tavares
+Quantidade de votos em comum: 11
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : Marcos Tavares
+Quantidade de votos em comum: 12
+
+Deputado 1 : Waldemar Oliveira
+Deputado 2 : Marcos Tavares
+Quantidade de votos em comum: 13
+
+Deputado 1 : Zé Haroldo Cathedral
+Deputado 2 : Marcos Tavares
+Quantidade de votos em comum: 14
+
+Deputado 1 : Carlos Veras
+Deputado 2 : Pedro Campos
+Quantidade de votos em comum: 1
+
+Deputado 1 : Cobalchini
+Deputado 2 : Pedro Campos
+Quantidade de votos em comum: 2
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : Pedro Campos
+Quantidade de votos em comum: 3
+
+Deputado 1 : Flávio Nogueira
+Deputado 2 : Pedro Campos
+Quantidade de votos em comum: 4
+
+Deputado 1 : Helder Salomão
+Deputado 2 : Pedro Campos
+Quantidade de votos em comum: 5
+
+Deputado 1 : José Guimarães
+Deputado 2 : Pedro Campos
+Quantidade de votos em comum: 6
+
+Deputado 1 : Laura Carneiro
+Deputado 2 : Pedro Campos
+Quantidade de votos em comum: 7
+
+Deputado 1 : Marcos Tavares
+Deputado 2 : Pedro Campos
+Quantidade de votos em comum: 8
+
+Deputado 1 : Renilce Nicodemos
+Deputado 2 : Pedro Campos
+Quantidade de votos em comum: 9
+
+Deputado 1 : Rui Falcão
+Deputado 2 : Pedro Campos
+Quantidade de votos em comum: 10
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : Pedro Campos
+Quantidade de votos em comum: 11
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : Pedro Campos
+Quantidade de votos em comum: 12
+
+Deputado 1 : Waldemar Oliveira
+Deputado 2 : Pedro Campos
+Quantidade de votos em comum: 13
+
+Deputado 1 : Zé Haroldo Cathedral
+Deputado 2 : Pedro Campos
+Quantidade de votos em comum: 14
+
+Deputado 1 : Carlos Veras
+Deputado 2 : Renilce Nicodemos
+Quantidade de votos em comum: 1
+
+Deputado 1 : Cobalchini
+Deputado 2 : Renilce Nicodemos
+Quantidade de votos em comum: 2
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : Renilce Nicodemos
+Quantidade de votos em comum: 3
+
+Deputado 1 : Flávio Nogueira
+Deputado 2 : Renilce Nicodemos
+Quantidade de votos em comum: 4
+
+Deputado 1 : Helder Salomão
+Deputado 2 : Renilce Nicodemos
+Quantidade de votos em comum: 5
+
+Deputado 1 : José Guimarães
+Deputado 2 : Renilce Nicodemos
+Quantidade de votos em comum: 6
+
+Deputado 1 : Laura Carneiro
+Deputado 2 : Renilce Nicodemos
+Quantidade de votos em comum: 7
+
+Deputado 1 : Marcos Tavares
+Deputado 2 : Renilce Nicodemos
+Quantidade de votos em comum: 8
+
+Deputado 1 : Pedro Campos
+Deputado 2 : Renilce Nicodemos
+Quantidade de votos em comum: 9
+
+Deputado 1 : Rui Falcão
+Deputado 2 : Renilce Nicodemos
+Quantidade de votos em comum: 10
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : Renilce Nicodemos
+Quantidade de votos em comum: 11
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : Renilce Nicodemos
+Quantidade de votos em comum: 12
+
+Deputado 1 : Waldemar Oliveira
+Deputado 2 : Renilce Nicodemos
+Quantidade de votos em comum: 13
+
+Deputado 1 : Zé Haroldo Cathedral
+Deputado 2 : Renilce Nicodemos
+Quantidade de votos em comum: 14
+
+Deputado 1 : Carlos Veras
+Deputado 2 : Rui Falcão
+Quantidade de votos em comum: 1
+
+Deputado 1 : Cobalchini
+Deputado 2 : Rui Falcão
+Quantidade de votos em comum: 2
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : Rui Falcão
+Quantidade de votos em comum: 3
+
+Deputado 1 : Flávio Nogueira
+Deputado 2 : Rui Falcão
+Quantidade de votos em comum: 4
+
+Deputado 1 : Helder Salomão
+Deputado 2 : Rui Falcão
+Quantidade de votos em comum: 5
+
+Deputado 1 : José Guimarães
+Deputado 2 : Rui Falcão
+Quantidade de votos em comum: 6
+
+Deputado 1 : Laura Carneiro
+Deputado 2 : Rui Falcão
+Quantidade de votos em comum: 7
+
+Deputado 1 : Marcos Tavares
+Deputado 2 : Rui Falcão
+Quantidade de votos em comum: 8
+
+Deputado 1 : Pedro Campos
+Deputado 2 : Rui Falcão
+Quantidade de votos em comum: 9
+
+Deputado 1 : Renilce Nicodemos
+Deputado 2 : Rui Falcão
+Quantidade de votos em comum: 10
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : Rui Falcão
+Quantidade de votos em comum: 11
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : Rui Falcão
+Quantidade de votos em comum: 12
+
+Deputado 1 : Waldemar Oliveira
+Deputado 2 : Rui Falcão
+Quantidade de votos em comum: 13
+
+Deputado 1 : Zé Haroldo Cathedral
+Deputado 2 : Rui Falcão
+Quantidade de votos em comum: 14
+
+Deputado 1 : Carlos Veras
+Deputado 2 : Sâmia Bomfim
+Quantidade de votos em comum: 1
+
+Deputado 1 : Cobalchini
+Deputado 2 : Sâmia Bomfim
+Quantidade de votos em comum: 2
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : Sâmia Bomfim
+Quantidade de votos em comum: 3
+
+Deputado 1 : Flávio Nogueira
+Deputado 2 : Sâmia Bomfim
+Quantidade de votos em comum: 4
+
+Deputado 1 : Helder Salomão
+Deputado 2 : Sâmia Bomfim
+Quantidade de votos em comum: 5
+
+Deputado 1 : José Guimarães
+Deputado 2 : Sâmia Bomfim
+Quantidade de votos em comum: 6
+
+Deputado 1 : Laura Carneiro
+Deputado 2 : Sâmia Bomfim
+Quantidade de votos em comum: 7
+
+Deputado 1 : Marcos Tavares
+Deputado 2 : Sâmia Bomfim
+Quantidade de votos em comum: 8
+
+Deputado 1 : Pedro Campos
+Deputado 2 : Sâmia Bomfim
+Quantidade de votos em comum: 9
+
+Deputado 1 : Renilce Nicodemos
+Deputado 2 : Sâmia Bomfim
+Quantidade de votos em comum: 10
+
+Deputado 1 : Rui Falcão
+Deputado 2 : Sâmia Bomfim
+Quantidade de votos em comum: 11
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : Sâmia Bomfim
+Quantidade de votos em comum: 12
+
+Deputado 1 : Waldemar Oliveira
+Deputado 2 : Sâmia Bomfim
+Quantidade de votos em comum: 13
+
+Deputado 1 : Zé Haroldo Cathedral
+Deputado 2 : Sâmia Bomfim
+Quantidade de votos em comum: 14
+
+Deputado 1 : Carlos Veras
+Deputado 2 : Tarcísio Motta
+Quantidade de votos em comum: 1
+
+Deputado 1 : Cobalchini
+Deputado 2 : Tarcísio Motta
+Quantidade de votos em comum: 2
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : Tarcísio Motta
+Quantidade de votos em comum: 3
+
+Deputado 1 : Flávio Nogueira
+Deputado 2 : Tarcísio Motta
+Quantidade de votos em comum: 4
+
+Deputado 1 : Helder Salomão
+Deputado 2 : Tarcísio Motta
+Quantidade de votos em comum: 5
+
+Deputado 1 : José Guimarães
+Deputado 2 : Tarcísio Motta
+Quantidade de votos em comum: 6
+
+Deputado 1 : Laura Carneiro
+Deputado 2 : Tarcísio Motta
+Quantidade de votos em comum: 7
+
+Deputado 1 : Marcos Tavares
+Deputado 2 : Tarcísio Motta
+Quantidade de votos em comum: 8
+
+Deputado 1 : Pedro Campos
+Deputado 2 : Tarcísio Motta
+Quantidade de votos em comum: 9
+
+Deputado 1 : Renilce Nicodemos
+Deputado 2 : Tarcísio Motta
+Quantidade de votos em comum: 10
+
+Deputado 1 : Rui Falcão
+Deputado 2 : Tarcísio Motta
+Quantidade de votos em comum: 11
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : Tarcísio Motta
+Quantidade de votos em comum: 12
+
+Deputado 1 : Waldemar Oliveira
+Deputado 2 : Tarcísio Motta
+Quantidade de votos em comum: 13
+
+Deputado 1 : Zé Haroldo Cathedral
+Deputado 2 : Tarcísio Motta
+Quantidade de votos em comum: 14
+
+Deputado 1 : Carlos Veras
+Deputado 2 : Waldemar Oliveira
+Quantidade de votos em comum: 1
+
+Deputado 1 : Cobalchini
+Deputado 2 : Waldemar Oliveira
+Quantidade de votos em comum: 2
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : Waldemar Oliveira
+Quantidade de votos em comum: 3
+
+Deputado 1 : Flávio Nogueira
+Deputado 2 : Waldemar Oliveira
+Quantidade de votos em comum: 4
+
+Deputado 1 : Helder Salomão
+Deputado 2 : Waldemar Oliveira
+Quantidade de votos em comum: 5
+
+Deputado 1 : José Guimarães
+Deputado 2 : Waldemar Oliveira
+Quantidade de votos em comum: 6
+
+Deputado 1 : Laura Carneiro
+Deputado 2 : Waldemar Oliveira
+Quantidade de votos em comum: 7
+
+Deputado 1 : Marcos Tavares
+Deputado 2 : Waldemar Oliveira
+Quantidade de votos em comum: 8
+
+Deputado 1 : Pedro Campos
+Deputado 2 : Waldemar Oliveira
+Quantidade de votos em comum: 9
+
+Deputado 1 : Renilce Nicodemos
+Deputado 2 : Waldemar Oliveira
+Quantidade de votos em comum: 10
+
+Deputado 1 : Rui Falcão
+Deputado 2 : Waldemar Oliveira
+Quantidade de votos em comum: 11
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : Waldemar Oliveira
+Quantidade de votos em comum: 12
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : Waldemar Oliveira
+Quantidade de votos em comum: 13
+
+Deputado 1 : Zé Haroldo Cathedral
+Deputado 2 : Waldemar Oliveira
+Quantidade de votos em comum: 14
+
+Deputado 1 : Carlos Veras
+Deputado 2 : Zé Haroldo Cathedral
+Quantidade de votos em comum: 1
+
+Deputado 1 : Cobalchini
+Deputado 2 : Zé Haroldo Cathedral
+Quantidade de votos em comum: 2
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : Zé Haroldo Cathedral
+Quantidade de votos em comum: 3
+
+Deputado 1 : Flávio Nogueira
+Deputado 2 : Zé Haroldo Cathedral
+Quantidade de votos em comum: 4
+
+Deputado 1 : Helder Salomão
+Deputado 2 : Zé Haroldo Cathedral
+Quantidade de votos em comum: 5
+
+Deputado 1 : José Guimarães
+Deputado 2 : Zé Haroldo Cathedral
+Quantidade de votos em comum: 6
+
+Deputado 1 : Laura Carneiro
+Deputado 2 : Zé Haroldo Cathedral
+Quantidade de votos em comum: 7
+
+Deputado 1 : Marcos Tavares
+Deputado 2 : Zé Haroldo Cathedral
+Quantidade de votos em comum: 8
+
+Deputado 1 : Pedro Campos
+Deputado 2 : Zé Haroldo Cathedral
+Quantidade de votos em comum: 9
+
+Deputado 1 : Renilce Nicodemos
+Deputado 2 : Zé Haroldo Cathedral
+Quantidade de votos em comum: 10
+
+Deputado 1 : Rui Falcão
+Deputado 2 : Zé Haroldo Cathedral
+Quantidade de votos em comum: 11
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : Zé Haroldo Cathedral
+Quantidade de votos em comum: 12
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : Zé Haroldo Cathedral
+Quantidade de votos em comum: 13
+
+Deputado 1 : Waldemar Oliveira
+Deputado 2 : Zé Haroldo Cathedral
+Quantidade de votos em comum: 14
+
+Deputado 1 : Alencar Santana
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 1
+
+Deputado 1 : André Janones
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 2
+
+Deputado 1 : Bacelar
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 3
+
+Deputado 1 : Carlos Veras
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 4
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 5
+
+Deputado 1 : Diego Coronel
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 6
+
+Deputado 1 : Eduardo Bismarck
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 7
+
+Deputado 1 : Gervásio Maia
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 8
+
+Deputado 1 : Helder Salomão
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 9
+
+Deputado 1 : José Guimarães
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 10
+
+Deputado 1 : Juarez Costa
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 11
+
+Deputado 1 : Maria Arraes
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 12
+
+Deputado 1 : Murilo Galdino
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 13
+
+Deputado 1 : Rubens Pereira Júnior
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 14
+
+Deputado 1 : Rui Falcão
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 15
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 16
+
+Deputado 1 : Silvio Costa Filho
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 17
+
+Deputado 1 : Tabata Amaral
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 18
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 19
+
+Deputado 1 : Yury do Paredão
+Deputado 2 : Afonso Motta
+Quantidade de votos em comum: 20
+
+Deputado 1 : Afonso Motta
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 1
+
+Deputado 1 : André Janones
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 2
+
+Deputado 1 : Bacelar
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 3
+
+Deputado 1 : Carlos Veras
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 4
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 5
+
+Deputado 1 : Diego Coronel
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 6
+
+Deputado 1 : Eduardo Bismarck
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 7
+
+Deputado 1 : Gervásio Maia
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 8
+
+Deputado 1 : Helder Salomão
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 9
+
+Deputado 1 : José Guimarães
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 10
+
+Deputado 1 : Juarez Costa
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 11
+
+Deputado 1 : Maria Arraes
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 12
+
+Deputado 1 : Murilo Galdino
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 13
+
+Deputado 1 : Rubens Pereira Júnior
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 14
+
+Deputado 1 : Rui Falcão
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 15
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 16
+
+Deputado 1 : Silvio Costa Filho
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 17
+
+Deputado 1 : Tabata Amaral
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 18
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 19
+
+Deputado 1 : Yury do Paredão
+Deputado 2 : Alencar Santana
+Quantidade de votos em comum: 20
+
+Deputado 1 : Afonso Motta
+Deputado 2 : André Janones
+Quantidade de votos em comum: 1
+
+Deputado 1 : Alencar Santana
+Deputado 2 : André Janones
+Quantidade de votos em comum: 2
+
+Deputado 1 : Bacelar
+Deputado 2 : André Janones
+Quantidade de votos em comum: 3
+
+Deputado 1 : Carlos Veras
+Deputado 2 : André Janones
+Quantidade de votos em comum: 4
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : André Janones
+Quantidade de votos em comum: 5
+
+Deputado 1 : Diego Coronel
+Deputado 2 : André Janones
+Quantidade de votos em comum: 6
+
+Deputado 1 : Eduardo Bismarck
+Deputado 2 : André Janones
+Quantidade de votos em comum: 7
+
+Deputado 1 : Gervásio Maia
+Deputado 2 : André Janones
+Quantidade de votos em comum: 8
+
+Deputado 1 : Helder Salomão
+Deputado 2 : André Janones
+Quantidade de votos em comum: 9
+
+Deputado 1 : José Guimarães
+Deputado 2 : André Janones
+Quantidade de votos em comum: 10
+
+Deputado 1 : Juarez Costa
+Deputado 2 : André Janones
+Quantidade de votos em comum: 11
+
+Deputado 1 : Maria Arraes
+Deputado 2 : André Janones
+Quantidade de votos em comum: 12
+
+Deputado 1 : Murilo Galdino
+Deputado 2 : André Janones
+Quantidade de votos em comum: 13
+
+Deputado 1 : Rubens Pereira Júnior
+Deputado 2 : André Janones
+Quantidade de votos em comum: 14
+
+Deputado 1 : Rui Falcão
+Deputado 2 : André Janones
+Quantidade de votos em comum: 15
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : André Janones
+Quantidade de votos em comum: 16
+
+Deputado 1 : Silvio Costa Filho
+Deputado 2 : André Janones
+Quantidade de votos em comum: 17
+
+Deputado 1 : Tabata Amaral
+Deputado 2 : André Janones
+Quantidade de votos em comum: 18
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : André Janones
+Quantidade de votos em comum: 19
+
+Deputado 1 : Yury do Paredão
+Deputado 2 : André Janones
+Quantidade de votos em comum: 20
+
+Deputado 1 : Afonso Motta
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 1
+
+Deputado 1 : Alencar Santana
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 2
+
+Deputado 1 : André Janones
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 3
+
+Deputado 1 : Carlos Veras
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 4
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 5
+
+Deputado 1 : Diego Coronel
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 6
+
+Deputado 1 : Eduardo Bismarck
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 7
+
+Deputado 1 : Gervásio Maia
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 8
+
+Deputado 1 : Helder Salomão
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 9
+
+Deputado 1 : José Guimarães
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 10
+
+Deputado 1 : Juarez Costa
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 11
+
+Deputado 1 : Maria Arraes
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 12
+
+Deputado 1 : Murilo Galdino
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 13
+
+Deputado 1 : Rubens Pereira Júnior
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 14
+
+Deputado 1 : Rui Falcão
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 15
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 16
+
+Deputado 1 : Silvio Costa Filho
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 17
+
+Deputado 1 : Tabata Amaral
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 18
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 19
+
+Deputado 1 : Yury do Paredão
+Deputado 2 : Bacelar
+Quantidade de votos em comum: 20
+
+Deputado 1 : Afonso Motta
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 1
+
+Deputado 1 : Alencar Santana
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 2
+
+Deputado 1 : André Janones
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 3
+
+Deputado 1 : Bacelar
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 4
+
+Deputado 1 : Delegada Katarina
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 5
+
+Deputado 1 : Diego Coronel
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 6
+
+Deputado 1 : Eduardo Bismarck
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 7
+
+Deputado 1 : Gervásio Maia
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 8
+
+Deputado 1 : Helder Salomão
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 9
+
+Deputado 1 : José Guimarães
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 10
+
+Deputado 1 : Juarez Costa
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 11
+
+Deputado 1 : Maria Arraes
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 12
+
+Deputado 1 : Murilo Galdino
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 13
+
+Deputado 1 : Rubens Pereira Júnior
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 14
+
+Deputado 1 : Rui Falcão
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 15
+
+Deputado 1 : Sâmia Bomfim
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 16
+
+Deputado 1 : Silvio Costa Filho
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 17
+
+Deputado 1 : Tabata Amaral
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 18
+
+Deputado 1 : Tarcísio Motta
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 19
+
+Deputado 1 : Yury do Paredão
+Deputado 2 : Carlos Veras
+Quantidade de votos em comum: 20
+

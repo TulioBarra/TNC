@@ -1,0 +1,5005 @@
+
+{
+"dados": [{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "220576",
+  "deputado_nome": "Alfredo Gaspar"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "220683",
+  "deputado_nome": "Beto Richa"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "220574",
+  "deputado_nome": "Cabo Gilberto Silva"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "204572",
+  "deputado_nome": "Capit\u00e3o Alberto Neto"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Sim",
+  "deputado_id": "204426",
+  "deputado_nome": "Carlos Veras"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "204369",
+  "deputado_nome": "Caroline de Toni"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Sim",
+  "deputado_id": "98148",
+  "deputado_nome": "Cobalchini"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "220666",
+  "deputado_nome": "Coronel Meira"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Sim",
+  "deputado_id": "220561",
+  "deputado_nome": "Delegada Katarina"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "178908",
+  "deputado_nome": "Delegado \u00c9der Mauro"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "220619",
+  "deputado_nome": "Delegado Ramagem"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "178929",
+  "deputado_nome": "Diego Garcia"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Sim",
+  "deputado_id": "191923",
+  "deputado_nome": "Fl\u00e1vio Nogueira"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "220587",
+  "deputado_nome": "Gerlen Diniz"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "204365",
+  "deputado_nome": "Gilson Marques"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Sim",
+  "deputado_id": "178873",
+  "deputado_nome": "Helder Salom\u00e3o"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "214694",
+  "deputado_nome": "Jorge Goetten"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Sim",
+  "deputado_id": "141470",
+  "deputado_nome": "Jos\u00e9 Guimar\u00e3es"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "204391",
+  "deputado_nome": "Jos\u00e9 Nelto"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "98057",
+  "deputado_nome": "Lafayette de Andrada"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Sim",
+  "deputado_id": "74856",
+  "deputado_nome": "Laura Carneiro"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "204404",
+  "deputado_nome": "Lucas Redecker"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "220648",
+  "deputado_nome": "Marangoni"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "220547",
+  "deputado_nome": "Marcos Pollon"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Sim",
+  "deputado_id": "220604",
+  "deputado_nome": "Marcos Tavares"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "220550",
+  "deputado_nome": "Mauricio Marcon"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "160642",
+  "deputado_nome": "Pastor Eurico"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Sim",
+  "deputado_id": "220667",
+  "deputado_nome": "Pedro Campos"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "160601",
+  "deputado_nome": "Pr. Marco Feliciano"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Sim",
+  "deputado_id": "153423",
+  "deputado_nome": "Renilce Nicodemos"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "220588",
+  "deputado_nome": "Roberto Duarte"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "220624",
+  "deputado_nome": "Robinson Faria"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "220644",
+  "deputado_nome": "Ros\u00e2ngela Moro"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "220620",
+  "deputado_nome": "Ros\u00e2ngela Reis"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Sim",
+  "deputado_id": "73604",
+  "deputado_nome": "Rui Falc\u00e3o"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Sim",
+  "deputado_id": "204535",
+  "deputado_nome": "S\u00e2mia Bomfim"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Sim",
+  "deputado_id": "220598",
+  "deputado_nome": "Tarc\u00edsio Motta"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Sim",
+  "deputado_id": "91228",
+  "deputado_nome": "Waldemar Oliveira"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "220564",
+  "deputado_nome": "Yandra Moura"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Nao",
+  "deputado_id": "220660",
+  "deputado_nome": "Yury do Pared\u00e3o"
+},{
+  "idVotacao": "1555497-56",
+  "voto": "Sim",
+  "deputado_id": "220536",
+  "deputado_nome": "Z\u00e9 Haroldo Cathedral"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "178835",
+  "deputado_nome": "Afonso Motta"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "204501",
+  "deputado_nome": "Alencar Santana"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "220576",
+  "deputado_nome": "Alfredo Gaspar"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "204515",
+  "deputado_nome": "Andr\u00e9 Janones"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "69871",
+  "deputado_nome": "Bacelar"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "220574",
+  "deputado_nome": "Cabo Gilberto Silva"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "204572",
+  "deputado_nome": "Capit\u00e3o Alberto Neto"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "204426",
+  "deputado_nome": "Carlos Veras"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "204462",
+  "deputado_nome": "Chris Tonietto"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "98148",
+  "deputado_nome": "Cobalchini"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "220595",
+  "deputado_nome": "Coronel Fernanda"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "178963",
+  "deputado_nome": "Covatti Filho"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "220561",
+  "deputado_nome": "Delegada Katarina"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "178908",
+  "deputado_nome": "Delegado \u00c9der Mauro"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "204512",
+  "deputado_nome": "Delegado Marcelo Freitas"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "220619",
+  "deputado_nome": "Delegado Ramagem"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "220705",
+  "deputado_nome": "Deltan Dallagnol"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "220691",
+  "deputado_nome": "Diego Coronel"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "178929",
+  "deputado_nome": "Diego Garcia"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "204541",
+  "deputado_nome": "Eduardo Bismarck"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "204398",
+  "deputado_nome": "Felipe Francischini"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "204394",
+  "deputado_nome": "Gerv\u00e1sio Maia"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "204365",
+  "deputado_nome": "Gilson Marques"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "178873",
+  "deputado_nome": "Helder Salom\u00e3o"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "74550",
+  "deputado_nome": "Jo\u00e3o Le\u00e3o"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "214694",
+  "deputado_nome": "Jorge Goetten"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "141470",
+  "deputado_nome": "Jos\u00e9 Guimar\u00e3es"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "204474",
+  "deputado_nome": "Juarez Costa"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "220559",
+  "deputado_nome": "Julia Zanatta"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Absten\u00e7\u00e3o",
+  "deputado_id": "204536",
+  "deputado_nome": "Kim Kataguiri"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "220668",
+  "deputado_nome": "Maria Arraes"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "220584",
+  "deputado_nome": "Murilo Galdino"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "204479",
+  "deputado_nome": "Nicoletti"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "220588",
+  "deputado_nome": "Roberto Duarte"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "220644",
+  "deputado_nome": "Ros\u00e2ngela Moro"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "220620",
+  "deputado_nome": "Ros\u00e2ngela Reis"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "178887",
+  "deputado_nome": "Rubens Pereira J\u00fanior"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "73604",
+  "deputado_nome": "Rui Falc\u00e3o"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "204535",
+  "deputado_nome": "S\u00e2mia Bomfim"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "204425",
+  "deputado_nome": "Silvio Costa Filho"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "204534",
+  "deputado_nome": "Tabata Amaral"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "220598",
+  "deputado_nome": "Tarc\u00edsio Motta"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Sim",
+  "deputado_id": "220660",
+  "deputado_nome": "Yury do Pared\u00e3o"
+},{
+  "idVotacao": "1713431-105",
+  "voto": "Nao",
+  "deputado_id": "220536",
+  "deputado_nome": "Z\u00e9 Haroldo Cathedral"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Sim",
+  "deputado_id": "204501",
+  "deputado_nome": "Alencar Santana"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "220576",
+  "deputado_nome": "Alfredo Gaspar"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "160600",
+  "deputado_nome": "Arthur Oliveira Maia"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "123086",
+  "deputado_nome": "\u00c1tila Lira"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "178829",
+  "deputado_nome": "Capit\u00e3o Augusto"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Sim",
+  "deputado_id": "204426",
+  "deputado_nome": "Carlos Veras"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "204369",
+  "deputado_nome": "Caroline de Toni"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "98148",
+  "deputado_nome": "Cobalchini"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "220595",
+  "deputado_nome": "Coronel Fernanda"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "220666",
+  "deputado_nome": "Coronel Meira"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Sim",
+  "deputado_id": "220561",
+  "deputado_nome": "Delegada Katarina"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "204512",
+  "deputado_nome": "Delegado Marcelo Freitas"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "220619",
+  "deputado_nome": "Delegado Ramagem"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "220705",
+  "deputado_nome": "Deltan Dallagnol"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Sim",
+  "deputado_id": "220691",
+  "deputado_nome": "Diego Coronel"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Sim",
+  "deputado_id": "204541",
+  "deputado_nome": "Eduardo Bismarck"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "178905",
+  "deputado_nome": "Fabio Garcia"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "220712",
+  "deputado_nome": "Fausto Santos Jr."
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Sim",
+  "deputado_id": "191923",
+  "deputado_nome": "Fl\u00e1vio Nogueira"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "220587",
+  "deputado_nome": "Gerlen Diniz"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Sim",
+  "deputado_id": "204394",
+  "deputado_nome": "Gerv\u00e1sio Maia"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "204365",
+  "deputado_nome": "Gilson Marques"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Sim",
+  "deputado_id": "178873",
+  "deputado_nome": "Helder Salom\u00e3o"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "214694",
+  "deputado_nome": "Jorge Goetten"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Sim",
+  "deputado_id": "141470",
+  "deputado_nome": "Jos\u00e9 Guimar\u00e3es"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "204391",
+  "deputado_nome": "Jos\u00e9 Nelto"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "220559",
+  "deputado_nome": "Julia Zanatta"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Sim",
+  "deputado_id": "74856",
+  "deputado_nome": "Laura Carneiro"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Sim",
+  "deputado_id": "74858",
+  "deputado_nome": "Lindbergh Farias"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Sim",
+  "deputado_id": "74041",
+  "deputado_nome": "Luiz Couto"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "220599",
+  "deputado_nome": "Marcelo Crivella"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "220547",
+  "deputado_nome": "Marcos Pollon"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Sim",
+  "deputado_id": "220604",
+  "deputado_nome": "Marcos Tavares"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "204479",
+  "deputado_nome": "Nicoletti"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "220588",
+  "deputado_nome": "Roberto Duarte"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "220624",
+  "deputado_nome": "Robinson Faria"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "220644",
+  "deputado_nome": "Ros\u00e2ngela Moro"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "220620",
+  "deputado_nome": "Ros\u00e2ngela Reis"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Sim",
+  "deputado_id": "178887",
+  "deputado_nome": "Rubens Pereira J\u00fanior"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Sim",
+  "deputado_id": "204534",
+  "deputado_nome": "Tabata Amaral"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Sim",
+  "deputado_id": "220598",
+  "deputado_nome": "Tarc\u00edsio Motta"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Sim",
+  "deputado_id": "91228",
+  "deputado_nome": "Waldemar Oliveira"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Sim",
+  "deputado_id": "220660",
+  "deputado_nome": "Yury do Pared\u00e3o"
+},{
+  "idVotacao": "1713431-120",
+  "voto": "Nao",
+  "deputado_id": "220536",
+  "deputado_nome": "Z\u00e9 Haroldo Cathedral"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "204501",
+  "deputado_nome": "Alencar Santana"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "160600",
+  "deputado_nome": "Arthur Oliveira Maia"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "123086",
+  "deputado_nome": "\u00c1tila Lira"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "220574",
+  "deputado_nome": "Cabo Gilberto Silva"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "178829",
+  "deputado_nome": "Capit\u00e3o Augusto"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "204460",
+  "deputado_nome": "Carlos Jordy"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "204426",
+  "deputado_nome": "Carlos Veras"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "204369",
+  "deputado_nome": "Caroline de Toni"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "98148",
+  "deputado_nome": "Cobalchini"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "220595",
+  "deputado_nome": "Coronel Fernanda"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "220666",
+  "deputado_nome": "Coronel Meira"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "220561",
+  "deputado_nome": "Delegada Katarina"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "204512",
+  "deputado_nome": "Delegado Marcelo Freitas"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "220619",
+  "deputado_nome": "Delegado Ramagem"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "220705",
+  "deputado_nome": "Deltan Dallagnol"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "220691",
+  "deputado_nome": "Diego Coronel"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "220686",
+  "deputado_nome": "Duarte"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "204541",
+  "deputado_nome": "Eduardo Bismarck"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "178905",
+  "deputado_nome": "Fabio Garcia"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "66828",
+  "deputado_nome": "Fausto Pinato"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "220712",
+  "deputado_nome": "Fausto Santos Jr."
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "204398",
+  "deputado_nome": "Felipe Francischini"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "191923",
+  "deputado_nome": "Fl\u00e1vio Nogueira"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "220587",
+  "deputado_nome": "Gerlen Diniz"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "204394",
+  "deputado_nome": "Gerv\u00e1sio Maia"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "204365",
+  "deputado_nome": "Gilson Marques"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "178873",
+  "deputado_nome": "Helder Salom\u00e3o"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "214694",
+  "deputado_nome": "Jorge Goetten"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "141470",
+  "deputado_nome": "Jos\u00e9 Guimar\u00e3es"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "204391",
+  "deputado_nome": "Jos\u00e9 Nelto"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "220559",
+  "deputado_nome": "Julia Zanatta"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "98057",
+  "deputado_nome": "Lafayette de Andrada"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "74856",
+  "deputado_nome": "Laura Carneiro"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "74858",
+  "deputado_nome": "Lindbergh Farias"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "74041",
+  "deputado_nome": "Luiz Couto"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "220599",
+  "deputado_nome": "Marcelo Crivella"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "220547",
+  "deputado_nome": "Marcos Pollon"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "220604",
+  "deputado_nome": "Marcos Tavares"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "220668",
+  "deputado_nome": "Maria Arraes"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "220550",
+  "deputado_nome": "Mauricio Marcon"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "220584",
+  "deputado_nome": "Murilo Galdino"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "204479",
+  "deputado_nome": "Nicoletti"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "160601",
+  "deputado_nome": "Pr. Marco Feliciano"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "220588",
+  "deputado_nome": "Roberto Duarte"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "220624",
+  "deputado_nome": "Robinson Faria"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "220644",
+  "deputado_nome": "Ros\u00e2ngela Moro"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "74371",
+  "deputado_nome": "Rubens Otoni"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "178887",
+  "deputado_nome": "Rubens Pereira J\u00fanior"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "73604",
+  "deputado_nome": "Rui Falc\u00e3o"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "204535",
+  "deputado_nome": "S\u00e2mia Bomfim"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "204425",
+  "deputado_nome": "Silvio Costa Filho"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "220598",
+  "deputado_nome": "Tarc\u00edsio Motta"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "91228",
+  "deputado_nome": "Waldemar Oliveira"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Sim",
+  "deputado_id": "220660",
+  "deputado_nome": "Yury do Pared\u00e3o"
+},{
+  "idVotacao": "1713431-125",
+  "voto": "Nao",
+  "deputado_id": "220536",
+  "deputado_nome": "Z\u00e9 Haroldo Cathedral"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220576",
+  "deputado_nome": "Alfredo Gaspar"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "160600",
+  "deputado_nome": "Arthur Oliveira Maia"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "123086",
+  "deputado_nome": "\u00c1tila Lira"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220574",
+  "deputado_nome": "Cabo Gilberto Silva"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "178829",
+  "deputado_nome": "Capit\u00e3o Augusto"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "204460",
+  "deputado_nome": "Carlos Jordy"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Nao",
+  "deputado_id": "204426",
+  "deputado_nome": "Carlos Veras"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "98148",
+  "deputado_nome": "Cobalchini"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220595",
+  "deputado_nome": "Coronel Fernanda"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220666",
+  "deputado_nome": "Coronel Meira"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220561",
+  "deputado_nome": "Delegada Katarina"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "204512",
+  "deputado_nome": "Delegado Marcelo Freitas"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220619",
+  "deputado_nome": "Delegado Ramagem"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220705",
+  "deputado_nome": "Deltan Dallagnol"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220691",
+  "deputado_nome": "Diego Coronel"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "178929",
+  "deputado_nome": "Diego Garcia"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Nao",
+  "deputado_id": "220686",
+  "deputado_nome": "Duarte"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Nao",
+  "deputado_id": "204541",
+  "deputado_nome": "Eduardo Bismarck"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "178905",
+  "deputado_nome": "Fabio Garcia"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220712",
+  "deputado_nome": "Fausto Santos Jr."
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "204398",
+  "deputado_nome": "Felipe Francischini"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Nao",
+  "deputado_id": "191923",
+  "deputado_nome": "Fl\u00e1vio Nogueira"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220587",
+  "deputado_nome": "Gerlen Diniz"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Nao",
+  "deputado_id": "204394",
+  "deputado_nome": "Gerv\u00e1sio Maia"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "204365",
+  "deputado_nome": "Gilson Marques"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Nao",
+  "deputado_id": "178873",
+  "deputado_nome": "Helder Salom\u00e3o"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "214694",
+  "deputado_nome": "Jorge Goetten"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Nao",
+  "deputado_id": "141470",
+  "deputado_nome": "Jos\u00e9 Guimar\u00e3es"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220559",
+  "deputado_nome": "Julia Zanatta"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "74856",
+  "deputado_nome": "Laura Carneiro"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Nao",
+  "deputado_id": "74858",
+  "deputado_nome": "Lindbergh Farias"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Nao",
+  "deputado_id": "74041",
+  "deputado_nome": "Luiz Couto"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220599",
+  "deputado_nome": "Marcelo Crivella"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220547",
+  "deputado_nome": "Marcos Pollon"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Nao",
+  "deputado_id": "220604",
+  "deputado_nome": "Marcos Tavares"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Nao",
+  "deputado_id": "220668",
+  "deputado_nome": "Maria Arraes"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220550",
+  "deputado_nome": "Mauricio Marcon"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "74428",
+  "deputado_nome": "Mendon\u00e7a Filho"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Nao",
+  "deputado_id": "171786",
+  "deputado_nome": "Miguel \u00c2ngelo"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220584",
+  "deputado_nome": "Murilo Galdino"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "204479",
+  "deputado_nome": "Nicoletti"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "160601",
+  "deputado_nome": "Pr. Marco Feliciano"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220624",
+  "deputado_nome": "Robinson Faria"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220644",
+  "deputado_nome": "Ros\u00e2ngela Moro"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220620",
+  "deputado_nome": "Ros\u00e2ngela Reis"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Nao",
+  "deputado_id": "74371",
+  "deputado_nome": "Rubens Otoni"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Nao",
+  "deputado_id": "178887",
+  "deputado_nome": "Rubens Pereira J\u00fanior"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Nao",
+  "deputado_id": "73604",
+  "deputado_nome": "Rui Falc\u00e3o"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Nao",
+  "deputado_id": "204535",
+  "deputado_nome": "S\u00e2mia Bomfim"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Nao",
+  "deputado_id": "220598",
+  "deputado_nome": "Tarc\u00edsio Motta"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "91228",
+  "deputado_nome": "Waldemar Oliveira"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220660",
+  "deputado_nome": "Yury do Pared\u00e3o"
+},{
+  "idVotacao": "1713431-127",
+  "voto": "Sim",
+  "deputado_id": "220536",
+  "deputado_nome": "Z\u00e9 Haroldo Cathedral"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220593",
+  "deputado_nome": "Abilio Brunini"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220714",
+  "deputado_nome": "Adail Filho"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "221328",
+  "deputado_nome": "Adilson Barroso"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "74646",
+  "deputado_nome": "A\u00e9cio Neves"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "136811",
+  "deputado_nome": "Afonso Hamm"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178835",
+  "deputado_nome": "Afonso Motta"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "160527",
+  "deputado_nome": "Aguinaldo Ribeiro"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204495",
+  "deputado_nome": "Airton Faleiro"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "73579",
+  "deputado_nome": "Alberto Fraga"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204501",
+  "deputado_nome": "Alencar Santana"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204571",
+  "deputado_nome": "Alex Santana"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220542",
+  "deputado_nome": "Alexandre Guimar\u00e3es"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "160545",
+  "deputado_nome": "Alexandre Leite"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "221148",
+  "deputado_nome": "Alfredinho"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220576",
+  "deputado_nome": "Alfredo Gaspar"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178927",
+  "deputado_nome": "Aliel Machado"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "178881",
+  "deputado_nome": "Aluisio Mendes"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220596",
+  "deputado_nome": "Am\u00e1lia Barros"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220707",
+  "deputado_nome": "Amanda Gentil"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204356",
+  "deputado_nome": "Amaro Neto"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220715",
+  "deputado_nome": "Amom Mandel"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "107970",
+  "deputado_nome": "Ana Paula Le\u00e3o"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220556",
+  "deputado_nome": "Ana Paula Lima"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220632",
+  "deputado_nome": "Ana Pimentel"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "133439",
+  "deputado_nome": "Andr\u00e9 Figueiredo"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204515",
+  "deputado_nome": "Andr\u00e9 Janones"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "123756",
+  "deputado_nome": "Ant\u00f4nia L\u00facia"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220544",
+  "deputado_nome": "Antonio Andrade"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220638",
+  "deputado_nome": "Antonio Carlos Rodrigues"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220675",
+  "deputado_nome": "Ant\u00f4nio Doido"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220549",
+  "deputado_nome": "Any Ortiz"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "73433",
+  "deputado_nome": "Arlindo Chinaglia"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "141391",
+  "deputado_nome": "Arnaldo Jardim"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "160600",
+  "deputado_nome": "Arthur Oliveira Maia"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74090",
+  "deputado_nome": "\u00c1tila Lins"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "123086",
+  "deputado_nome": "\u00c1tila Lira"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "160665",
+  "deputado_nome": "Augusto Coutinho"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220577",
+  "deputado_nome": "Augusto Puppio"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "160512",
+  "deputado_nome": "Aureo Ribeiro"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "69871",
+  "deputado_nome": "Bacelar"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "178975",
+  "deputado_nome": "Baleia Rossi"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220605",
+  "deputado_nome": "Bandeira de Mello"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220612",
+  "deputado_nome": "Bebeto"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "73701",
+  "deputado_nome": "Benedita da Silva"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "109429",
+  "deputado_nome": "Benes Leoc\u00e1dio"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204358",
+  "deputado_nome": "Beto Pereira"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220683",
+  "deputado_nome": "Beto Richa"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204374",
+  "deputado_nome": "Bia Kicis"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204388",
+  "deputado_nome": "Bibo Nunes"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "160538",
+  "deputado_nome": "Bohn Gass"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "210989",
+  "deputado_nome": "Bruno Farias"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220635",
+  "deputado_nome": "Bruno Ganem"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220574",
+  "deputado_nome": "Cabo Gilberto Silva"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220548",
+  "deputado_nome": "Camila Jara"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204572",
+  "deputado_nome": "Capit\u00e3o Alberto Neto"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220690",
+  "deputado_nome": "Capit\u00e3o Alden"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "178829",
+  "deputado_nome": "Capit\u00e3o Augusto"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "178962",
+  "deputado_nome": "Carlos Gomes"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178993",
+  "deputado_nome": "Carlos Henrique Gaguim"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204460",
+  "deputado_nome": "Carlos Jordy"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "74262",
+  "deputado_nome": "Carlos Sampaio"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204426",
+  "deputado_nome": "Carlos Veras"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "141398",
+  "deputado_nome": "Carlos Zarattini"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220704",
+  "deputado_nome": "Carol Dartora"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204369",
+  "deputado_nome": "Caroline de Toni"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220699",
+  "deputado_nome": "Castro Neto"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178876",
+  "deputado_nome": "C\u00e9lio Silveira"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204488",
+  "deputado_nome": "C\u00e9lio Studart"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "73441",
+  "deputado_nome": "Celso Russomanno"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204504",
+  "deputado_nome": "Cezinha de Madureira"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "205476",
+  "deputado_nome": "Charles Fernandes"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74171",
+  "deputado_nome": "Chico Alencar"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204462",
+  "deputado_nome": "Chris Tonietto"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220665",
+  "deputado_nome": "Clarissa T\u00e9rcio"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "74537",
+  "deputado_nome": "Claudio Cajado"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "141408",
+  "deputado_nome": "Cleber Verde"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "98148",
+  "deputado_nome": "Cobalchini"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220594",
+  "deputado_nome": "Coronel Assis"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204378",
+  "deputado_nome": "Coronel Chris\u00f3stomo"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220595",
+  "deputado_nome": "Coronel Fernanda"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220666",
+  "deputado_nome": "Coronel Meira"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220590",
+  "deputado_nome": "Coronel Ulysses"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "178963",
+  "deputado_nome": "Covatti Filho"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220608",
+  "deputado_nome": "Cristiane Lopes"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204355",
+  "deputado_nome": "Da Vitoria"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "141411",
+  "deputado_nome": "Dagoberto Nogueira"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220555",
+  "deputado_nome": "Daiana Santos"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74467",
+  "deputado_nome": "Dami\u00e3o Feliciano"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220603",
+  "deputado_nome": "Dani Cunha"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220571",
+  "deputado_nome": "Daniel Agrobom"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74060",
+  "deputado_nome": "Daniel Almeida"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220582",
+  "deputado_nome": "Daniel Barbosa"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204367",
+  "deputado_nome": "Daniel Freitas"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220614",
+  "deputado_nome": "Daniel Soranz"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204409",
+  "deputado_nome": "Daniel Trzeciak"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220557",
+  "deputado_nome": "Daniela Reinehr"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "62881",
+  "deputado_nome": "Danilo Forte"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204511",
+  "deputado_nome": "David Soares"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220539",
+  "deputado_nome": "Defensor St\u00e9lio Dener"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220565",
+  "deputado_nome": "Delegada Adriana Accorsi"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220561",
+  "deputado_nome": "Delegada Katarina"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220673",
+  "deputado_nome": "Delegado Caveira"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220583",
+  "deputado_nome": "Delegado Fabio Costa"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204512",
+  "deputado_nome": "Delegado Marcelo Freitas"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220701",
+  "deputado_nome": "Delegado Matheus Laiola"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220652",
+  "deputado_nome": "Delegado Palumbo"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220654",
+  "deputado_nome": "Delegado Paulo Bilynskyj"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220619",
+  "deputado_nome": "Delegado Ramagem"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220705",
+  "deputado_nome": "Deltan Dallagnol"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220553",
+  "deputado_nome": "Denise Pess\u00f4a"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220691",
+  "deputado_nome": "Diego Coronel"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178929",
+  "deputado_nome": "Diego Garcia"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220671",
+  "deputado_nome": "Dilvanda Faro"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "160599",
+  "deputado_nome": "Dimas Fabiano"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220602",
+  "deputado_nome": "Dimas Gadelha"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "160758",
+  "deputado_nome": "Domingos S\u00e1vio"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220573",
+  "deputado_nome": "Dorinaldo Malafaia"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220610",
+  "deputado_nome": "Dr. Fernando M\u00e1ximo"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220688",
+  "deputado_nome": "Dr. Francisco"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204518",
+  "deputado_nome": "Dr. Frederico"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204481",
+  "deputado_nome": "Dr. Jaziel"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204351",
+  "deputado_nome": "Dr. Luiz Ovando"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220528",
+  "deputado_nome": "Dr. Victor Linhalis"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204412",
+  "deputado_nome": "Dr. Zacharias Calil"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220674",
+  "deputado_nome": "Dra. Alessandra Haber"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220540",
+  "deputado_nome": "Duda Ramos"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220623",
+  "deputado_nome": "Duda Salabert"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204541",
+  "deputado_nome": "Eduardo Bismarck"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "92346",
+  "deputado_nome": "Eduardo Bolsonaro"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "141421",
+  "deputado_nome": "Eduardo da Fonte"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74075",
+  "deputado_nome": "Elcione Barbalho"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178854",
+  "deputado_nome": "Elmar Nascimento"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "198783",
+  "deputado_nome": "Emanuel Pinheiro Neto"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "161550",
+  "deputado_nome": "Emidinho Madeira"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220663",
+  "deputado_nome": "Eriberto Medeiros"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220645",
+  "deputado_nome": "Erika Hilton"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "160575",
+  "deputado_nome": "Erika Kokay"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "160640",
+  "deputado_nome": "Eros Biondini"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "178871",
+  "deputado_nome": "Evair Vieira de Melo"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "178905",
+  "deputado_nome": "Fabio Garcia"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220681",
+  "deputado_nome": "F\u00e1bio Macedo"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "171623",
+  "deputado_nome": "Fabio Reis"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204368",
+  "deputado_nome": "Fabio Schiochet"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220653",
+  "deputado_nome": "F\u00e1bio Teruel"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "66828",
+  "deputado_nome": "Fausto Pinato"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220712",
+  "deputado_nome": "Fausto Santos Jr."
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220646",
+  "deputado_nome": "Felipe Becari"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "72442",
+  "deputado_nome": "Felipe Carreras"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204398",
+  "deputado_nome": "Felipe Francischini"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204407",
+  "deputado_nome": "Fernanda Melchionna"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220656",
+  "deputado_nome": "Fernanda Pessoa"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "141431",
+  "deputado_nome": "Fernando Coelho Filho"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204427",
+  "deputado_nome": "Fernando Rodolfo"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204411",
+  "deputado_nome": "Filipe Barros"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220545",
+  "deputado_nome": "Filipe Martins"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "191923",
+  "deputado_nome": "Fl\u00e1vio Nogueira"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220700",
+  "deputado_nome": "Florentino Neto"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220551",
+  "deputado_nome": "Franciane Bayer"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220534",
+  "deputado_nome": "Fred Linhares"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220708",
+  "deputado_nome": "Gabriel Nunes"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204473",
+  "deputado_nome": "General Gir\u00e3o"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220611",
+  "deputado_nome": "General Pazuello"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "178966",
+  "deputado_nome": "Geovania de S\u00e1"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220702",
+  "deputado_nome": "Geraldo Mendes"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74374",
+  "deputado_nome": "Geraldo Resende"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220587",
+  "deputado_nome": "Gerlen Diniz"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204394",
+  "deputado_nome": "Gerv\u00e1sio Maia"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204491",
+  "deputado_nome": "Gilberto Abramo"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204365",
+  "deputado_nome": "Gilson Marques"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220526",
+  "deputado_nome": "Gilvan da Federal"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "160673",
+  "deputado_nome": "Giovani Cherini"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "152605",
+  "deputado_nome": "Glauber Braga"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204419",
+  "deputado_nome": "Glaustin da Fokus"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "198197",
+  "deputado_nome": "Greyce Elias"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220639",
+  "deputado_nome": "Guilherme Boulos"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220664",
+  "deputado_nome": "Guilherme Uchoa"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204456",
+  "deputado_nome": "Gutemberg Reis"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178964",
+  "deputado_nome": "Heitor Schuch"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178873",
+  "deputado_nome": "Helder Salom\u00e3o"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220537",
+  "deputado_nome": "Helena Lima"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204444",
+  "deputado_nome": "Helio Lopes"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220672",
+  "deputado_nome": "Henderson Pinto"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204539",
+  "deputado_nome": "Herc\u00edlio Coelho Diniz"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220563",
+  "deputado_nome": "Icaro de Valmir"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204533",
+  "deputado_nome": "Idilvan Alencar"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204508",
+  "deputado_nome": "Igor Timo"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "98615",
+  "deputado_nome": "Ismael"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220570",
+  "deputado_nome": "Ismael Alexandrino"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "73531",
+  "deputado_nome": "Ivan Valente"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220696",
+  "deputado_nome": "Ivoneide Caetano"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220670",
+  "deputado_nome": "Iza Arruda"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220527",
+  "deputado_nome": "Jack Rocha"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74848",
+  "deputado_nome": "Jandira Feghali"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220567",
+  "deputado_nome": "Jeferson Rodrigues"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "74273",
+  "deputado_nome": "Jefferson Campos"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "141456",
+  "deputado_nome": "Jilmar Tatto"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178970",
+  "deputado_nome": "Jo\u00e3o Daniel"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "74550",
+  "deputado_nome": "Jo\u00e3o Le\u00e3o"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "141459",
+  "deputado_nome": "Jo\u00e3o Maia"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "178910",
+  "deputado_nome": "Joaquim Passarinho"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "160548",
+  "deputado_nome": "Jonas Donizette"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "205550",
+  "deputado_nome": "Jorge Braz"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "214694",
+  "deputado_nome": "Jorge Goetten"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178857",
+  "deputado_nome": "Jorge Solla"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "141464",
+  "deputado_nome": "Jos\u00e9 Airton F\u00e9lix Cirilo"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "141470",
+  "deputado_nome": "Jos\u00e9 Guimar\u00e3es"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204472",
+  "deputado_nome": "Jos\u00e9 Medeiros"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204391",
+  "deputado_nome": "Jos\u00e9 Nelto"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74079",
+  "deputado_nome": "Jos\u00e9 Priante"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74554",
+  "deputado_nome": "Jos\u00e9 Rocha"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "209189",
+  "deputado_nome": "Joseildo Ramos"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220578",
+  "deputado_nome": "Josenildo"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "74141",
+  "deputado_nome": "Josias Gomes"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "215043",
+  "deputado_nome": "Josivaldo JP"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204474",
+  "deputado_nome": "Juarez Costa"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220559",
+  "deputado_nome": "Julia Zanatta"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74317",
+  "deputado_nome": "J\u00falio Cesar"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "74253",
+  "deputado_nome": "Julio Lopes"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204520",
+  "deputado_nome": "Junio Amaral"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204497",
+  "deputado_nome": "J\u00fanior Ferrari"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204574",
+  "deputado_nome": "Junior Louren\u00e7o"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220677",
+  "deputado_nome": "Keniston Braga"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "162067",
+  "deputado_nome": "Kiko Celeguim"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204536",
+  "deputado_nome": "Kim Kataguiri"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "98057",
+  "deputado_nome": "Lafayette de Andrada"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "141480",
+  "deputado_nome": "L\u00e1zaro Botelho"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "80815",
+  "deputado_nome": "L\u00e9o Prates"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74156",
+  "deputado_nome": "Leonardo Monteiro"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "139285",
+  "deputado_nome": "L\u00eddice da Mata"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "74585",
+  "deputado_nome": "Lincoln Portela"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74858",
+  "deputado_nome": "Lindbergh Farias"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220662",
+  "deputado_nome": "Lucas Ramos"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204404",
+  "deputado_nome": "Lucas Redecker"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220581",
+  "deputado_nome": "Luciano Amaral"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "103758",
+  "deputado_nome": "Luciano Azevedo"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74478",
+  "deputado_nome": "Luciano Bivar"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178931",
+  "deputado_nome": "Luciano Ducci"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220616",
+  "deputado_nome": "Luciano Vieira"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "222429",
+  "deputado_nome": "Luis Carlos Gomes"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204410",
+  "deputado_nome": "Luisa Canziani"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204448",
+  "deputado_nome": "Luiz Ant\u00f4nio Corr\u00eaa"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "141485",
+  "deputado_nome": "Luiz Carlos Busato"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204485",
+  "deputado_nome": "Luiz Carlos Motta"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "141487",
+  "deputado_nome": "Luiz Fernando Faria"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204455",
+  "deputado_nome": "Luiz Lima"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "162332",
+  "deputado_nome": "Luiz Nishimori"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204526",
+  "deputado_nome": "Luiz Philippe de Orleans e Bragan\u00e7a"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178866",
+  "deputado_nome": "Luizianne Lins"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220648",
+  "deputado_nome": "Marangoni"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "156190",
+  "deputado_nome": "Marcel van Hattem"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "179000",
+  "deputado_nome": "Marcelo \u00c1lvaro Ant\u00f4nio"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220599",
+  "deputado_nome": "Marcelo Crivella"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220634",
+  "deputado_nome": "Marcelo Lima"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "160161",
+  "deputado_nome": "Marcelo Queiroz"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "179001",
+  "deputado_nome": "M\u00e1rcio Biolchi"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "81055",
+  "deputado_nome": "M\u00e1rcio Jerry"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "150418",
+  "deputado_nome": "M\u00e1rcio Marinho"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204522",
+  "deputado_nome": "Marco Bertaiolli"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "219585",
+  "deputado_nome": "Marco Brasil"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "160535",
+  "deputado_nome": "Marcon"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Artigo 17",
+  "deputado_id": "204506",
+  "deputado_nome": "Marcos Pereira"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220547",
+  "deputado_nome": "Marcos Pollon"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178943",
+  "deputado_nome": "Marcos Soares"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220668",
+  "deputado_nome": "Maria Arraes"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74398",
+  "deputado_nome": "Maria do Ros\u00e1rio"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204540",
+  "deputado_nome": "Maria Rosas"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74158",
+  "deputado_nome": "M\u00e1rio Heringer"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178858",
+  "deputado_nome": "M\u00e1rio Negromonte Jr."
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204566",
+  "deputado_nome": "Marreca Filho"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220572",
+  "deputado_nome": "Marussa Boldrin"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178843",
+  "deputado_nome": "Marx Beltr\u00e3o"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220661",
+  "deputado_nome": "Matheus Noronha"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220609",
+  "deputado_nome": "Maur\u00edcio Carvalho"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220628",
+  "deputado_nome": "Mauricio do V\u00f4lei"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220550",
+  "deputado_nome": "Mauricio Marcon"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220647",
+  "deputado_nome": "Mauricio Neves"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204486",
+  "deputado_nome": "Mauro Benevides Filho"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220607",
+  "deputado_nome": "Max Lemos"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220591",
+  "deputado_nome": "Meire Serafim"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "74428",
+  "deputado_nome": "Mendon\u00e7a Filho"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "188097",
+  "deputado_nome": "Merlong Solano"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220585",
+  "deputado_nome": "Mersinho Lucena"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220530",
+  "deputado_nome": "Messias Donato"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "171786",
+  "deputado_nome": "Miguel \u00c2ngelo"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "178985",
+  "deputado_nome": "Miguel Lombardi"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "154178",
+  "deputado_nome": "Milton Vieira"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178997",
+  "deputado_nome": "Moses Rodrigues"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220584",
+  "deputado_nome": "Murilo Galdino"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204453",
+  "deputado_nome": "Nat\u00e1lia Bonavides"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220622",
+  "deputado_nome": "Nely Aquino"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204479",
+  "deputado_nome": "Nicoletti"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "209787",
+  "deputado_nome": "Nikolas Ferreira"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178986",
+  "deputado_nome": "Nilto Tatto"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74159",
+  "deputado_nome": "Odair Cunha"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204498",
+  "deputado_nome": "Olival Marques"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178987",
+  "deputado_nome": "Orlando Silva"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "73692",
+  "deputado_nome": "Osmar Terra"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204573",
+  "deputado_nome": "Otto Alencar Filho"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "160556",
+  "deputado_nome": "Padre Jo\u00e3o"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "180214",
+  "deputado_nome": "Pastor Diniz"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "160642",
+  "deputado_nome": "Pastor Eurico"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204570",
+  "deputado_nome": "Pastor Gil"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220615",
+  "deputado_nome": "Pastor Henrique Vieira"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204553",
+  "deputado_nome": "Pastor Sargento Isid\u00f3rio"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "171617",
+  "deputado_nome": "Paul\u00e3o"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220627",
+  "deputado_nome": "Paulinho Freire"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220650",
+  "deputado_nome": "Paulo Alexandre Barbosa"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178860",
+  "deputado_nome": "Paulo Azi"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "160558",
+  "deputado_nome": "Paulo Freire Costa"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204492",
+  "deputado_nome": "Paulo Guedes"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220685",
+  "deputado_nome": "Paulo Litro"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74574",
+  "deputado_nome": "Paulo Magalh\u00e3es"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220630",
+  "deputado_nome": "Pedro Aihara"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220667",
+  "deputado_nome": "Pedro Campos"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "122974",
+  "deputado_nome": "Pedro Lucas Fernandes"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "122158",
+  "deputado_nome": "Pedro Paulo"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "160604",
+  "deputado_nome": "Pedro Uczai"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204406",
+  "deputado_nome": "Pedro Westphalen"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "161440",
+  "deputado_nome": "Pezenti"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204524",
+  "deputado_nome": "Pinheirinho"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "73486",
+  "deputado_nome": "Pompeo de Mattos"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "160601",
+  "deputado_nome": "Pr. Marco Feliciano"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "89536",
+  "deputado_nome": "Prof. Paulo Fernando"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220533",
+  "deputado_nome": "Prof. Reginaldo Veras"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "221338",
+  "deputado_nome": "Professora Luciene Cavalcante"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220586",
+  "deputado_nome": "Rafael Brito"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220532",
+  "deputado_nome": "Rafael Prudente"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220626",
+  "deputado_nome": "Rafael Simoes"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204567",
+  "deputado_nome": "Raimundo Costa"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "74084",
+  "deputado_nome": "Raimundo Santos"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74161",
+  "deputado_nome": "Reginaldo Lopes"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "221378",
+  "deputado_nome": "Reginete Bispo"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220606",
+  "deputado_nome": "Reimont"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "205865",
+  "deputado_nome": "Reinhold Stephanes"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178989",
+  "deputado_nome": "Renata Abreu"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "153423",
+  "deputado_nome": "Renilce Nicodemos"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "73801",
+  "deputado_nome": "Renildo Calheiros"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "221329",
+  "deputado_nome": "Ricardo Abr\u00e3o"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220543",
+  "deputado_nome": "Ricardo Ayres"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204362",
+  "deputado_nome": "Ricardo Guidi"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220694",
+  "deputado_nome": "Ricardo Maia"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220693",
+  "deputado_nome": "Roberta Roma"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220588",
+  "deputado_nome": "Roberto Duarte"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220613",
+  "deputado_nome": "Roberto Monteiro"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220546",
+  "deputado_nome": "Rodolfo Nogueira"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "141531",
+  "deputado_nome": "Rodrigo de Castro"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220641",
+  "deputado_nome": "Rodrigo Gambale"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220695",
+  "deputado_nome": "Rog\u00e9ria Santos"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204480",
+  "deputado_nome": "Rog\u00e9rio Correia"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "160629",
+  "deputado_nome": "Romero Rodrigues"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204525",
+  "deputado_nome": "Rosana Valle"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220644",
+  "deputado_nome": "Ros\u00e2ngela Moro"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "73806",
+  "deputado_nome": "Roseana Sarney"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74371",
+  "deputado_nome": "Rubens Otoni"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178887",
+  "deputado_nome": "Rubens Pereira J\u00fanior"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "73604",
+  "deputado_nome": "Rui Falc\u00e3o"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "160635",
+  "deputado_nome": "Ruy Carneiro"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204535",
+  "deputado_nome": "S\u00e2mia Bomfim"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204416",
+  "deputado_nome": "Sanderson"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204387",
+  "deputado_nome": "Sargento Fahur"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220621",
+  "deputado_nome": "Sargento Gon\u00e7alves"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220618",
+  "deputado_nome": "Sargento Portugal"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220713",
+  "deputado_nome": "Saullo Vianna"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "178933",
+  "deputado_nome": "Sergio Souza"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204360",
+  "deputado_nome": "Silvia Cristina"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220579",
+  "deputado_nome": "Silvia Wai\u00e3pi"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220569",
+  "deputado_nome": "Silvye Alves"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220651",
+  "deputado_nome": "Simone Marquetto"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "104552",
+  "deputado_nome": "Socorro Neri"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220575",
+  "deputado_nome": "Sonize Barbosa"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204534",
+  "deputado_nome": "Tabata Amaral"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204464",
+  "deputado_nome": "Tal\u00edria Petrone"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220598",
+  "deputado_nome": "Tarc\u00edsio Motta"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220552",
+  "deputado_nome": "Tenente Coronel Zucco"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220560",
+  "deputado_nome": "Thiago de Joaldo"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220597",
+  "deputado_nome": "Thiago Flores"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220684",
+  "deputado_nome": "Ti\u00e3o Medeiros"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "160976",
+  "deputado_nome": "Tiririca"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "157130",
+  "deputado_nome": "T\u00falio Gad\u00ealha"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "160610",
+  "deputado_nome": "Valmir Assun\u00e7\u00e3o"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74376",
+  "deputado_nome": "Vander Loubet"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204396",
+  "deputado_nome": "Vermelho"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "74283",
+  "deputado_nome": "Vicentinho"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "137070",
+  "deputado_nome": "Vicentinho J\u00fanior"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "178992",
+  "deputado_nome": "Vitor Lippi"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "91228",
+  "deputado_nome": "Waldemar Oliveira"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "160569",
+  "deputado_nome": "Waldenor Pereira"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220601",
+  "deputado_nome": "Washington Quaqu\u00e1"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "160518",
+  "deputado_nome": "Weliton Prado"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "74043",
+  "deputado_nome": "Wellington Roberto"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220660",
+  "deputado_nome": "Yury do Pared\u00e3o"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220536",
+  "deputado_nome": "Z\u00e9 Haroldo Cathedral"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "204559",
+  "deputado_nome": "Z\u00e9 Neto"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "160632",
+  "deputado_nome": "Z\u00e9 Silva"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "220558",
+  "deputado_nome": "Z\u00e9 Trov\u00e3o"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Sim",
+  "deputado_id": "204517",
+  "deputado_nome": "Z\u00e9 Vitor"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "160592",
+  "deputado_nome": "Zeca Dirceu"
+},{
+  "idVotacao": "2115253-104",
+  "voto": "Nao",
+  "deputado_id": "220592",
+  "deputado_nome": "Zezinho Barbary"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220593",
+  "deputado_nome": "Abilio Brunini"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220714",
+  "deputado_nome": "Adail Filho"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "221328",
+  "deputado_nome": "Adilson Barroso"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204528",
+  "deputado_nome": "Adriana Ventura"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "74646",
+  "deputado_nome": "A\u00e9cio Neves"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "136811",
+  "deputado_nome": "Afonso Hamm"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "178835",
+  "deputado_nome": "Afonso Motta"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204495",
+  "deputado_nome": "Airton Faleiro"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "73579",
+  "deputado_nome": "Alberto Fraga"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204501",
+  "deputado_nome": "Alencar Santana"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204571",
+  "deputado_nome": "Alex Santana"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220542",
+  "deputado_nome": "Alexandre Guimar\u00e3es"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220554",
+  "deputado_nome": "Alexandre Lindenmeyer"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "221148",
+  "deputado_nome": "Alfredinho"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220576",
+  "deputado_nome": "Alfredo Gaspar"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "74057",
+  "deputado_nome": "Alice Portugal"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220596",
+  "deputado_nome": "Am\u00e1lia Barros"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220707",
+  "deputado_nome": "Amanda Gentil"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204356",
+  "deputado_nome": "Amaro Neto"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220715",
+  "deputado_nome": "Amom Mandel"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "107970",
+  "deputado_nome": "Ana Paula Le\u00e3o"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220556",
+  "deputado_nome": "Ana Paula Lima"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220632",
+  "deputado_nome": "Ana Pimentel"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "133439",
+  "deputado_nome": "Andr\u00e9 Figueiredo"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204515",
+  "deputado_nome": "Andr\u00e9 Janones"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220676",
+  "deputado_nome": "Andreia Siqueira"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220544",
+  "deputado_nome": "Antonio Andrade"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "160553",
+  "deputado_nome": "Antonio Brito"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220638",
+  "deputado_nome": "Antonio Carlos Rodrigues"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220675",
+  "deputado_nome": "Ant\u00f4nio Doido"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220549",
+  "deputado_nome": "Any Ortiz"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "73433",
+  "deputado_nome": "Arlindo Chinaglia"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "141391",
+  "deputado_nome": "Arnaldo Jardim"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "160600",
+  "deputado_nome": "Arthur Oliveira Maia"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "74090",
+  "deputado_nome": "\u00c1tila Lins"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "123086",
+  "deputado_nome": "\u00c1tila Lira"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "160665",
+  "deputado_nome": "Augusto Coutinho"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220577",
+  "deputado_nome": "Augusto Puppio"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "160512",
+  "deputado_nome": "Aureo Ribeiro"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "69871",
+  "deputado_nome": "Bacelar"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "178975",
+  "deputado_nome": "Baleia Rossi"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220605",
+  "deputado_nome": "Bandeira de Mello"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220612",
+  "deputado_nome": "Bebeto"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "73701",
+  "deputado_nome": "Benedita da Silva"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "109429",
+  "deputado_nome": "Benes Leoc\u00e1dio"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204358",
+  "deputado_nome": "Beto Pereira"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220683",
+  "deputado_nome": "Beto Richa"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204374",
+  "deputado_nome": "Bia Kicis"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204388",
+  "deputado_nome": "Bibo Nunes"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "160538",
+  "deputado_nome": "Bohn Gass"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "210989",
+  "deputado_nome": "Bruno Farias"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220635",
+  "deputado_nome": "Bruno Ganem"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204572",
+  "deputado_nome": "Capit\u00e3o Alberto Neto"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "178829",
+  "deputado_nome": "Capit\u00e3o Augusto"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "178962",
+  "deputado_nome": "Carlos Gomes"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "178993",
+  "deputado_nome": "Carlos Henrique Gaguim"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204460",
+  "deputado_nome": "Carlos Jordy"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "74262",
+  "deputado_nome": "Carlos Sampaio"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204426",
+  "deputado_nome": "Carlos Veras"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "141398",
+  "deputado_nome": "Carlos Zarattini"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220704",
+  "deputado_nome": "Carol Dartora"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204369",
+  "deputado_nome": "Caroline de Toni"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220699",
+  "deputado_nome": "Castro Neto"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "178876",
+  "deputado_nome": "C\u00e9lio Silveira"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204488",
+  "deputado_nome": "C\u00e9lio Studart"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204496",
+  "deputado_nome": "Celso Sabino"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204504",
+  "deputado_nome": "Cezinha de Madureira"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "205476",
+  "deputado_nome": "Charles Fernandes"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "74171",
+  "deputado_nome": "Chico Alencar"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204462",
+  "deputado_nome": "Chris Tonietto"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220665",
+  "deputado_nome": "Clarissa T\u00e9rcio"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "74537",
+  "deputado_nome": "Claudio Cajado"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "141408",
+  "deputado_nome": "Cleber Verde"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "98148",
+  "deputado_nome": "Cobalchini"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220594",
+  "deputado_nome": "Coronel Assis"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204378",
+  "deputado_nome": "Coronel Chris\u00f3stomo"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220595",
+  "deputado_nome": "Coronel Fernanda"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220666",
+  "deputado_nome": "Coronel Meira"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "222142",
+  "deputado_nome": "Coronel Telhada"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220590",
+  "deputado_nome": "Coronel Ulysses"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220608",
+  "deputado_nome": "Cristiane Lopes"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204355",
+  "deputado_nome": "Da Vitoria"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "141411",
+  "deputado_nome": "Dagoberto Nogueira"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220555",
+  "deputado_nome": "Daiana Santos"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220692",
+  "deputado_nome": "Dal Barreto"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "74467",
+  "deputado_nome": "Dami\u00e3o Feliciano"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220603",
+  "deputado_nome": "Dani Cunha"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220571",
+  "deputado_nome": "Daniel Agrobom"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "74060",
+  "deputado_nome": "Daniel Almeida"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220582",
+  "deputado_nome": "Daniel Barbosa"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204367",
+  "deputado_nome": "Daniel Freitas"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220614",
+  "deputado_nome": "Daniel Soranz"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204409",
+  "deputado_nome": "Daniel Trzeciak"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220557",
+  "deputado_nome": "Daniela Reinehr"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "62881",
+  "deputado_nome": "Danilo Forte"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204511",
+  "deputado_nome": "David Soares"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220659",
+  "deputado_nome": "Dayany Bittencourt"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220539",
+  "deputado_nome": "Defensor St\u00e9lio Dener"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220565",
+  "deputado_nome": "Delegada Adriana Accorsi"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "178908",
+  "deputado_nome": "Delegado \u00c9der Mauro"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220583",
+  "deputado_nome": "Delegado Fabio Costa"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204512",
+  "deputado_nome": "Delegado Marcelo Freitas"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220701",
+  "deputado_nome": "Delegado Matheus Laiola"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220652",
+  "deputado_nome": "Delegado Palumbo"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220654",
+  "deputado_nome": "Delegado Paulo Bilynskyj"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220619",
+  "deputado_nome": "Delegado Ramagem"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220705",
+  "deputado_nome": "Deltan Dallagnol"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220553",
+  "deputado_nome": "Denise Pess\u00f4a"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220689",
+  "deputado_nome": "Detinha"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220691",
+  "deputado_nome": "Diego Coronel"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "178929",
+  "deputado_nome": "Diego Garcia"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220671",
+  "deputado_nome": "Dilvanda Faro"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "160599",
+  "deputado_nome": "Dimas Fabiano"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220602",
+  "deputado_nome": "Dimas Gadelha"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "160758",
+  "deputado_nome": "Domingos S\u00e1vio"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220573",
+  "deputado_nome": "Dorinaldo Malafaia"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "221339",
+  "deputado_nome": "Dr Benjamim"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220610",
+  "deputado_nome": "Dr. Fernando M\u00e1ximo"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220688",
+  "deputado_nome": "Dr. Francisco"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204518",
+  "deputado_nome": "Dr. Frederico"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204481",
+  "deputado_nome": "Dr. Jaziel"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204351",
+  "deputado_nome": "Dr. Luiz Ovando"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220528",
+  "deputado_nome": "Dr. Victor Linhalis"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204412",
+  "deputado_nome": "Dr. Zacharias Calil"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220674",
+  "deputado_nome": "Dra. Alessandra Haber"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220686",
+  "deputado_nome": "Duarte"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220540",
+  "deputado_nome": "Duda Ramos"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220623",
+  "deputado_nome": "Duda Salabert"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204541",
+  "deputado_nome": "Eduardo Bismarck"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "92346",
+  "deputado_nome": "Eduardo Bolsonaro"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "141421",
+  "deputado_nome": "Eduardo da Fonte"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "74075",
+  "deputado_nome": "Elcione Barbalho"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204364",
+  "deputado_nome": "Eli Borges"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "198783",
+  "deputado_nome": "Emanuel Pinheiro Neto"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "161550",
+  "deputado_nome": "Emidinho Madeira"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220663",
+  "deputado_nome": "Eriberto Medeiros"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220645",
+  "deputado_nome": "Erika Hilton"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "160575",
+  "deputado_nome": "Erika Kokay"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "160640",
+  "deputado_nome": "Eros Biondini"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204482",
+  "deputado_nome": "Euclydes Pettersen"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "178871",
+  "deputado_nome": "Evair Vieira de Melo"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "178905",
+  "deputado_nome": "Fabio Garcia"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220681",
+  "deputado_nome": "F\u00e1bio Macedo"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "171623",
+  "deputado_nome": "Fabio Reis"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204368",
+  "deputado_nome": "Fabio Schiochet"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220653",
+  "deputado_nome": "F\u00e1bio Teruel"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "66828",
+  "deputado_nome": "Fausto Pinato"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220712",
+  "deputado_nome": "Fausto Santos Jr."
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "72442",
+  "deputado_nome": "Felipe Carreras"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204398",
+  "deputado_nome": "Felipe Francischini"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "160666",
+  "deputado_nome": "F\u00e9lix Mendon\u00e7a J\u00fanior"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204407",
+  "deputado_nome": "Fernanda Melchionna"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220656",
+  "deputado_nome": "Fernanda Pessoa"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "141431",
+  "deputado_nome": "Fernando Coelho Filho"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204445",
+  "deputado_nome": "Fernando Mineiro"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "92699",
+  "deputado_nome": "Fernando Monteiro"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204427",
+  "deputado_nome": "Fernando Rodolfo"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204411",
+  "deputado_nome": "Filipe Barros"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220545",
+  "deputado_nome": "Filipe Martins"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "160598",
+  "deputado_nome": "Fl\u00e1via Morais"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "191923",
+  "deputado_nome": "Fl\u00e1vio Nogueira"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220551",
+  "deputado_nome": "Franciane Bayer"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204494",
+  "deputado_nome": "Fred Costa"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220534",
+  "deputado_nome": "Fred Linhares"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "224117",
+  "deputado_nome": "Gabriel Mota"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220708",
+  "deputado_nome": "Gabriel Nunes"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204473",
+  "deputado_nome": "General Gir\u00e3o"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220611",
+  "deputado_nome": "General Pazuello"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "178966",
+  "deputado_nome": "Geovania de S\u00e1"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220702",
+  "deputado_nome": "Geraldo Mendes"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "74374",
+  "deputado_nome": "Geraldo Resende"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220587",
+  "deputado_nome": "Gerlen Diniz"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204394",
+  "deputado_nome": "Gerv\u00e1sio Maia"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "74383",
+  "deputado_nome": "Giacobo"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204491",
+  "deputado_nome": "Gilberto Abramo"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204365",
+  "deputado_nome": "Gilson Marques"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220526",
+  "deputado_nome": "Gilvan da Federal"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220531",
+  "deputado_nome": "Gilvan Maximo"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "160673",
+  "deputado_nome": "Giovani Cherini"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "152605",
+  "deputado_nome": "Glauber Braga"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204419",
+  "deputado_nome": "Glaustin da Fokus"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "107283",
+  "deputado_nome": "Gleisi Hoffmann"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "198197",
+  "deputado_nome": "Greyce Elias"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220639",
+  "deputado_nome": "Guilherme Boulos"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220664",
+  "deputado_nome": "Guilherme Uchoa"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204408",
+  "deputado_nome": "Gustinho Ribeiro"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204456",
+  "deputado_nome": "Gutemberg Reis"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "178964",
+  "deputado_nome": "Heitor Schuch"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "178873",
+  "deputado_nome": "Helder Salom\u00e3o"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220537",
+  "deputado_nome": "Helena Lima"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204444",
+  "deputado_nome": "Helio Lopes"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220672",
+  "deputado_nome": "Henderson Pinto"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204539",
+  "deputado_nome": "Herc\u00edlio Coelho Diniz"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220563",
+  "deputado_nome": "Icaro de Valmir"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204533",
+  "deputado_nome": "Idilvan Alencar"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204508",
+  "deputado_nome": "Igor Timo"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "98615",
+  "deputado_nome": "Ismael"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220570",
+  "deputado_nome": "Ismael Alexandrino"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "73531",
+  "deputado_nome": "Ivan Valente"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220696",
+  "deputado_nome": "Ivoneide Caetano"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220670",
+  "deputado_nome": "Iza Arruda"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220527",
+  "deputado_nome": "Jack Rocha"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "74848",
+  "deputado_nome": "Jandira Feghali"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "74273",
+  "deputado_nome": "Jefferson Campos"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "141456",
+  "deputado_nome": "Jilmar Tatto"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "141458",
+  "deputado_nome": "Jo\u00e3o Carlos Bacelar"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "178970",
+  "deputado_nome": "Jo\u00e3o Daniel"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "141459",
+  "deputado_nome": "Jo\u00e3o Maia"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "178910",
+  "deputado_nome": "Joaquim Passarinho"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "160548",
+  "deputado_nome": "Jonas Donizette"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "205550",
+  "deputado_nome": "Jorge Braz"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "214694",
+  "deputado_nome": "Jorge Goetten"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "178857",
+  "deputado_nome": "Jorge Solla"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "141470",
+  "deputado_nome": "Jos\u00e9 Guimar\u00e3es"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204391",
+  "deputado_nome": "Jos\u00e9 Nelto"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "74079",
+  "deputado_nome": "Jos\u00e9 Priante"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "209189",
+  "deputado_nome": "Joseildo Ramos"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220578",
+  "deputado_nome": "Josenildo"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204563",
+  "deputado_nome": "Josimar Maranh\u00e3ozinho"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "215043",
+  "deputado_nome": "Josivaldo JP"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204474",
+  "deputado_nome": "Juarez Costa"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220559",
+  "deputado_nome": "Julia Zanatta"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220640",
+  "deputado_nome": "Juliana Cardoso"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "66385",
+  "deputado_nome": "Julio Arcoverde"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "74317",
+  "deputado_nome": "J\u00falio Cesar"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204457",
+  "deputado_nome": "Juninho do Pneu"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204520",
+  "deputado_nome": "Junio Amaral"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204497",
+  "deputado_nome": "J\u00fanior Ferrari"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204574",
+  "deputado_nome": "Junior Louren\u00e7o"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220677",
+  "deputado_nome": "Keniston Braga"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "162067",
+  "deputado_nome": "Kiko Celeguim"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204536",
+  "deputado_nome": "Kim Kataguiri"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "98057",
+  "deputado_nome": "Lafayette de Andrada"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "141480",
+  "deputado_nome": "L\u00e1zaro Botelho"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "80815",
+  "deputado_nome": "L\u00e9o Prates"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "74156",
+  "deputado_nome": "Leonardo Monteiro"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "74299",
+  "deputado_nome": "Le\u00f4nidas Cristino"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "92102",
+  "deputado_nome": "Leur Lomanto J\u00fanior"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "139285",
+  "deputado_nome": "L\u00eddice da Mata"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "74585",
+  "deputado_nome": "Lincoln Portela"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "74858",
+  "deputado_nome": "Lindbergh Farias"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220662",
+  "deputado_nome": "Lucas Ramos"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204404",
+  "deputado_nome": "Lucas Redecker"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "138286",
+  "deputado_nome": "Luciano Alves"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220581",
+  "deputado_nome": "Luciano Amaral"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "103758",
+  "deputado_nome": "Luciano Azevedo"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "178931",
+  "deputado_nome": "Luciano Ducci"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220616",
+  "deputado_nome": "Luciano Vieira"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "222429",
+  "deputado_nome": "Luis Carlos Gomes"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "160510",
+  "deputado_nome": "Luis Tib\u00e9"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204448",
+  "deputado_nome": "Luiz Ant\u00f4nio Corr\u00eaa"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "141485",
+  "deputado_nome": "Luiz Carlos Busato"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204485",
+  "deputado_nome": "Luiz Carlos Motta"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "141487",
+  "deputado_nome": "Luiz Fernando Faria"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204455",
+  "deputado_nome": "Luiz Lima"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "162332",
+  "deputado_nome": "Luiz Nishimori"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204526",
+  "deputado_nome": "Luiz Philippe de Orleans e Bragan\u00e7a"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "178866",
+  "deputado_nome": "Luizianne Lins"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220669",
+  "deputado_nome": "Lula da Fonte"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "166402",
+  "deputado_nome": "Magda Mofatto"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220648",
+  "deputado_nome": "Marangoni"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "156190",
+  "deputado_nome": "Marcel van Hattem"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "179000",
+  "deputado_nome": "Marcelo \u00c1lvaro Ant\u00f4nio"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220599",
+  "deputado_nome": "Marcelo Crivella"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220634",
+  "deputado_nome": "Marcelo Lima"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "160161",
+  "deputado_nome": "Marcelo Queiroz"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "178983",
+  "deputado_nome": "Marcio Alvino"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "179001",
+  "deputado_nome": "M\u00e1rcio Biolchi"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "81055",
+  "deputado_nome": "M\u00e1rcio Jerry"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "150418",
+  "deputado_nome": "M\u00e1rcio Marinho"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204522",
+  "deputado_nome": "Marco Bertaiolli"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "219585",
+  "deputado_nome": "Marco Brasil"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204431",
+  "deputado_nome": "Marcos Aur\u00e9lio Sampaio"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Artigo 17",
+  "deputado_id": "204506",
+  "deputado_nome": "Marcos Pereira"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220547",
+  "deputado_nome": "Marcos Pollon"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "178943",
+  "deputado_nome": "Marcos Soares"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220668",
+  "deputado_nome": "Maria Arraes"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "74398",
+  "deputado_nome": "Maria do Ros\u00e1rio"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204540",
+  "deputado_nome": "Maria Rosas"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "74158",
+  "deputado_nome": "M\u00e1rio Heringer"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "178858",
+  "deputado_nome": "M\u00e1rio Negromonte Jr."
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204566",
+  "deputado_nome": "Marreca Filho"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "178843",
+  "deputado_nome": "Marx Beltr\u00e3o"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220661",
+  "deputado_nome": "Matheus Noronha"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220609",
+  "deputado_nome": "Maur\u00edcio Carvalho"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220628",
+  "deputado_nome": "Mauricio do V\u00f4lei"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220550",
+  "deputado_nome": "Mauricio Marcon"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204486",
+  "deputado_nome": "Mauro Benevides Filho"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220607",
+  "deputado_nome": "Max Lemos"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220591",
+  "deputado_nome": "Meire Serafim"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "74428",
+  "deputado_nome": "Mendon\u00e7a Filho"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "188097",
+  "deputado_nome": "Merlong Solano"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220585",
+  "deputado_nome": "Mersinho Lucena"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220530",
+  "deputado_nome": "Messias Donato"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "171786",
+  "deputado_nome": "Miguel \u00c2ngelo"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "178985",
+  "deputado_nome": "Miguel Lombardi"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "154178",
+  "deputado_nome": "Milton Vieira"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "178895",
+  "deputado_nome": "Misael Varella"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "178997",
+  "deputado_nome": "Moses Rodrigues"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220617",
+  "deputado_nome": "Murillo Gouvea"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220584",
+  "deputado_nome": "Murilo Galdino"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204453",
+  "deputado_nome": "Nat\u00e1lia Bonavides"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220622",
+  "deputado_nome": "Nely Aquino"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220703",
+  "deputado_nome": "Neto Carletto"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "178896",
+  "deputado_nome": "Newton Cardoso Jr"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204479",
+  "deputado_nome": "Nicoletti"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "209787",
+  "deputado_nome": "Nikolas Ferreira"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "178986",
+  "deputado_nome": "Nilto Tatto"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "74159",
+  "deputado_nome": "Odair Cunha"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204498",
+  "deputado_nome": "Olival Marques"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "178987",
+  "deputado_nome": "Orlando Silva"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "73692",
+  "deputado_nome": "Osmar Terra"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204573",
+  "deputado_nome": "Otto Alencar Filho"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "160556",
+  "deputado_nome": "Padre Jo\u00e3o"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "180214",
+  "deputado_nome": "Pastor Diniz"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "160642",
+  "deputado_nome": "Pastor Eurico"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204570",
+  "deputado_nome": "Pastor Gil"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220615",
+  "deputado_nome": "Pastor Henrique Vieira"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204553",
+  "deputado_nome": "Pastor Sargento Isid\u00f3rio"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "171617",
+  "deputado_nome": "Paul\u00e3o"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220627",
+  "deputado_nome": "Paulinho Freire"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220650",
+  "deputado_nome": "Paulo Alexandre Barbosa"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "178860",
+  "deputado_nome": "Paulo Azi"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "160558",
+  "deputado_nome": "Paulo Freire Costa"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204492",
+  "deputado_nome": "Paulo Guedes"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220685",
+  "deputado_nome": "Paulo Litro"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "74574",
+  "deputado_nome": "Paulo Magalh\u00e3es"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220630",
+  "deputado_nome": "Pedro Aihara"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220667",
+  "deputado_nome": "Pedro Campos"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "122974",
+  "deputado_nome": "Pedro Lucas Fernandes"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204395",
+  "deputado_nome": "Pedro Lupion"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "122158",
+  "deputado_nome": "Pedro Paulo"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "160604",
+  "deputado_nome": "Pedro Uczai"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204406",
+  "deputado_nome": "Pedro Westphalen"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "161440",
+  "deputado_nome": "Pezenti"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204524",
+  "deputado_nome": "Pinheirinho"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "73486",
+  "deputado_nome": "Pompeo de Mattos"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "160601",
+  "deputado_nome": "Pr. Marco Feliciano"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "89536",
+  "deputado_nome": "Prof. Paulo Fernando"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220533",
+  "deputado_nome": "Prof. Reginaldo Veras"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204390",
+  "deputado_nome": "Professor Alcides"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220580",
+  "deputado_nome": "Professora Goreth"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "221338",
+  "deputado_nome": "Professora Luciene Cavalcante"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220586",
+  "deputado_nome": "Rafael Brito"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220532",
+  "deputado_nome": "Rafael Prudente"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220626",
+  "deputado_nome": "Rafael Simoes"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "204567",
+  "deputado_nome": "Raimundo Costa"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "74161",
+  "deputado_nome": "Reginaldo Lopes"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "221378",
+  "deputado_nome": "Reginete Bispo"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220606",
+  "deputado_nome": "Reimont"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "205865",
+  "deputado_nome": "Reinhold Stephanes"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "178989",
+  "deputado_nome": "Renata Abreu"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "153423",
+  "deputado_nome": "Renilce Nicodemos"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "73801",
+  "deputado_nome": "Renildo Calheiros"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "221329",
+  "deputado_nome": "Ricardo Abr\u00e3o"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "220543",
+  "deputado_nome": "Ricardo Ayres"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "204362",
+  "deputado_nome": "Ricardo Guidi"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220633",
+  "deputado_nome": "Ricardo Salles"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "213274",
+  "deputado_nome": "Ricardo Silva"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220693",
+  "deputado_nome": "Roberta Roma"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220588",
+  "deputado_nome": "Roberto Duarte"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220613",
+  "deputado_nome": "Roberto Monteiro"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220624",
+  "deputado_nome": "Robinson Faria"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Sim",
+  "deputado_id": "220546",
+  "deputado_nome": "Rodolfo Nogueira"
+},{
+  "idVotacao": "2115253-111",
+  "voto": "Nao",
+  "deputado_id": "141531",
+  "deputado_nome": "Rodrigo de Castro"
+},
+]
+}

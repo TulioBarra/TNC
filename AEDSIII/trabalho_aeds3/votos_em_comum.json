@@ -1,0 +1,243 @@
+
+{
+"dados": [{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "Z\u00e9 Haroldo Cathedral",
+  "deputado_2": "Carlos Veras",
+  "quantidade_votos_em_comum": 14,
+  "porcentagem_de_votos_em_comum": 0.2857142857142857
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "Z\u00e9 Haroldo Cathedral",
+  "deputado_2": "Cobalchini",
+  "quantidade_votos_em_comum": 14,
+  "porcentagem_de_votos_em_comum": 0.21428571428571427
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "Z\u00e9 Haroldo Cathedral",
+  "deputado_2": "Delegada Katarina",
+  "quantidade_votos_em_comum": 14,
+  "porcentagem_de_votos_em_comum": 0.07142857142857142
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "Z\u00e9 Haroldo Cathedral",
+  "deputado_2": "Fl\u00e1vio Nogueira",
+  "quantidade_votos_em_comum": 14,
+  "porcentagem_de_votos_em_comum": 0.2857142857142857
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "Z\u00e9 Haroldo Cathedral",
+  "deputado_2": "Helder Salom\u00e3o",
+  "quantidade_votos_em_comum": 14,
+  "porcentagem_de_votos_em_comum": 0.07142857142857142
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "Z\u00e9 Haroldo Cathedral",
+  "deputado_2": "Jos\u00e9 Guimar\u00e3es",
+  "quantidade_votos_em_comum": 14,
+  "porcentagem_de_votos_em_comum": 0.07142857142857142
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "Z\u00e9 Haroldo Cathedral",
+  "deputado_2": "Laura Carneiro",
+  "quantidade_votos_em_comum": 14,
+  "porcentagem_de_votos_em_comum": 0.21428571428571427
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "Z\u00e9 Haroldo Cathedral",
+  "deputado_2": "Marcos Tavares",
+  "quantidade_votos_em_comum": 14,
+  "porcentagem_de_votos_em_comum": 0.07142857142857142
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "Z\u00e9 Haroldo Cathedral",
+  "deputado_2": "Pedro Campos",
+  "quantidade_votos_em_comum": 14,
+  "porcentagem_de_votos_em_comum": 0.14285714285714285
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "Z\u00e9 Haroldo Cathedral",
+  "deputado_2": "Renilce Nicodemos",
+  "quantidade_votos_em_comum": 14,
+  "porcentagem_de_votos_em_comum": 0.14285714285714285
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "Z\u00e9 Haroldo Cathedral",
+  "deputado_2": "Rui Falc\u00e3o",
+  "quantidade_votos_em_comum": 14,
+  "porcentagem_de_votos_em_comum": 0.07142857142857142
+},{
+  "deputado_1": "Z\u00e9 Haroldo Cathedral",
+  "deputado_2": "S\u00e2mia Bomfim",
+  "quantidade_votos_em_comum": 14,
+  "porcentagem_de_votos_em_comum": 0.07142857142857142
+},{
+  "deputado_1": "Z\u00e9 Haroldo Cathedral",
+  "deputado_2": "Tarc\u00edsio Motta",
+  "quantidade_votos_em_comum": 14,
+  "porcentagem_de_votos_em_comum": 0.07142857142857142
+},{
+  "deputado_1": "Z\u00e9 Haroldo Cathedral",
+  "deputado_2": "Waldemar Oliveira",
+  "quantidade_votos_em_comum": 14,
+  "porcentagem_de_votos_em_comum": 0.07142857142857142
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "Waldemar Oliveira",
+  "deputado_2": "Z\u00e9 Haroldo Cathedral",
+  "quantidade_votos_em_comum": 14,
+  "porcentagem_de_votos_em_comum": 0.07142857142857142
+},{
+  "deputado_1": "Yury do Pared\u00e3o",
+  "deputado_2": "Afonso Motta",
+  "quantidade_votos_em_comum": 20,
+  "porcentagem_de_votos_em_comum": 0.05
+},{
+  "deputado_1": "Yury do Pared\u00e3o",
+  "deputado_2": "Alencar Santana",
+  "quantidade_votos_em_comum": 20,
+  "porcentagem_de_votos_em_comum": 0.05
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "Yury do Pared\u00e3o",
+  "deputado_2": "Andr\u00e9 Janones",
+  "quantidade_votos_em_comum": 20,
+  "porcentagem_de_votos_em_comum": 0.05
+},{
+  "deputado_1": "Yury do Pared\u00e3o",
+  "deputado_2": "Bacelar",
+  "quantidade_votos_em_comum": 20,
+  "porcentagem_de_votos_em_comum": 0.05
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},{
+  "deputado_1": "",
+  "deputado_2": "",
+  "quantidade_votos_em_comum": 0,
+  "porcentagem_de_votos_em_comum": 0
+},
